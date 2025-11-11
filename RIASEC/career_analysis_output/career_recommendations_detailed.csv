@@ -1,0 +1,201 @@
+Participant,Rank,Career,Domain,Combined_Score,Interest_Score,Holland_Code
+Vandana,1,Business Analyst,IT & ITES,1.861111111111111,0.5,SIE
+Vandana,2,Technical Writer,IT & ITES,1.8333333333333333,0.5,SIE
+Vandana,3,Group 2 Officers in Various Departments,Public Administration ,1.5,0.5,SIE
+Vandana,4,Panchayat Secretary,Public Administration ,1.5,0.5,SIE
+Vandana,5,Senior Assistants in Various Departments,Public Administration ,1.5,0.5,SIE
+Vandana,6,Deputy Tehsildar,Public Administration ,1.5,0.5,SIE
+Vandana,7,Prohibition & Excise Sub Inspector,Public Administration ,1.5,0.5,SIE
+Vandana,8,Pharmacists,Healthcare & Life Sciences,1.472222222222222,0.5,SIE
+Vandana,9,Sports Psychologist,Fitness & Lesiure,1.361111111111111,0.5,SIE
+Vandana,10,Engineer-Technical Support,IT & ITES,1.3333333333333333,0.5,SIE
+Vandana,11,UI Designer,IT & ITES,1.2685185185185184,0.6666666666666666,SIE
+Vandana,12,Trainer,IT & ITES,1.25,0.5,SIE
+Vandana,13,Psychologist,Healthcare & Life Sciences,1.25,0.5,SIE
+Vandana,14,Ayurvedic Physician,Healthcare & Life Sciences,1.240740740740741,0.5,SIE
+Vandana,15,Homoeopathic Physician,Healthcare & Life Sciences,1.240740740740741,0.5,SIE
+Vandana,16,Psychiatrist,Healthcare & Life Sciences,1.240740740740741,0.5,SIE
+Vandana,17,Sports Physiotherapist,Fitness & Lesiure,1.0833333333333333,0.5,SIE
+Vandana,18,Athletic Coach,Fitness & Lesiure,0.9166666666666666,0.5,SIE
+Vandana,19,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,0.9166666666666666,0.5,SIE
+Vandana,20,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,0.9166666666666666,0.5,SIE
+Sabyasachi Mohanty,1,Group 2 Officers in Various Departments,Public Administration ,1.5,0.5,ISC
+Sabyasachi Mohanty,2,Senior Assistants in Various Departments,Public Administration ,1.5,0.5,ISC
+Sabyasachi Mohanty,3,Sports Psychologist,Fitness & Lesiure,1.4166666666666667,0.5,ISC
+Sabyasachi Mohanty,4,Business Analyst,IT & ITES,1.3611111111111114,0.5,ISC
+Sabyasachi Mohanty,5,Blood Bank Technician,Healthcare & Life Sciences,1.361111111111111,0.5,ISC
+Sabyasachi Mohanty,6,Commericial Tax Officer,Public Administration ,1.3055555555555556,0.5,ISC
+Sabyasachi Mohanty,7,Pharmacists,Healthcare & Life Sciences,1.3055555555555556,0.5,ISC
+Sabyasachi Mohanty,8,Group 4 Employees,Public Administration ,1.3055555555555554,0.5,ISC
+Sabyasachi Mohanty,9,Nursing Assistant,Healthcare & Life Sciences,1.3055555555555554,0.5,ISC
+Sabyasachi Mohanty,10,Deputy Tehsildar,Public Administration ,1.25,0.5,ISC
+Sabyasachi Mohanty,11,Technical Writer,IT & ITES,1.25,0.5,ISC
+Sabyasachi Mohanty,12,Surgeon,Healthcare & Life Sciences,1.236111111111111,0.5,ISC
+Sabyasachi Mohanty,13,Engineer-Technical Support,IT & ITES,1.222222222222222,0.5,ISC
+Sabyasachi Mohanty,14,Medical Imaging Technician,Healthcare & Life Sciences,1.0370370370370372,0.5,ISC
+Sabyasachi Mohanty,15,Sports Physiotherapist,Fitness & Lesiure,0.9907407407407409,0.5,ISC
+Sabyasachi Mohanty,16,Associate-Medical Transcription,IT & ITES,0.9814814814814815,0.5,ISC
+Sabyasachi Mohanty,17,Trainer,IT & ITES,0.9722222222222222,0.5,ISC
+Sabyasachi Mohanty,18,Athletic Coach,Fitness & Lesiure,0.8425925925925926,0.5,ISC
+Sabyasachi Mohanty,19,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,0.8425925925925926,0.5,ISC
+Sabyasachi Mohanty,20,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,0.8425925925925926,0.5,ISC
+Ambarish Chatterjee,1,Group 2 Officers in Various Departments,Public Administration ,1.75,0.5,ISC
+Ambarish Chatterjee,2,Senior Assistants in Various Departments,Public Administration ,1.75,0.5,ISC
+Ambarish Chatterjee,3,Business Analyst,IT & ITES,1.722222222222222,0.5,ISC
+Ambarish Chatterjee,4,Pharmacists,Healthcare & Life Sciences,1.6944444444444444,0.5,ISC
+Ambarish Chatterjee,5,Commericial Tax Officer,Public Administration ,1.6944444444444444,0.5,ISC
+Ambarish Chatterjee,6,Prohibition & Excise Sub Inspector,Public Administration ,1.6666666666666667,0.5,ISC
+Ambarish Chatterjee,7,Deputy Tehsildar,Public Administration ,1.6666666666666667,0.5,ISC
+Ambarish Chatterjee,8,Sports Psychologist,Fitness & Lesiure,1.5555555555555554,0.5,ISC
+Ambarish Chatterjee,9,Blood Bank Technician,Healthcare & Life Sciences,1.5277777777777777,0.5,ISC
+Ambarish Chatterjee,10,Engineer-Technical Support,IT & ITES,1.5,0.5,ISC
+Ambarish Chatterjee,11,Nursing Assistant,Healthcare & Life Sciences,1.5,0.5,ISC
+Ambarish Chatterjee,12,Technical Writer,IT & ITES,1.3888888888888886,0.5,ISC
+Ambarish Chatterjee,13,Surgeon,Healthcare & Life Sciences,1.347222222222222,0.5,ISC
+Ambarish Chatterjee,14,Medical Imaging Technician,Healthcare & Life Sciences,1.1851851851851851,0.5,ISC
+Ambarish Chatterjee,15,Trainer,IT & ITES,1.1666666666666667,0.5,ISC
+Ambarish Chatterjee,16,QA Engineer (Software Testing Engineer),IT & ITES,1.1574074074074074,0.5,ISC
+Ambarish Chatterjee,17,Sports Physiotherapist,Fitness & Lesiure,1.1111111111111112,0.5,ISC
+Ambarish Chatterjee,18,Athletic Coach,Fitness & Lesiure,1.0,0.5,ISC
+Ambarish Chatterjee,19,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,1.0,0.5,ISC
+Ambarish Chatterjee,20,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,1.0,0.5,ISC
+Debajyoti Banerjee,1,Technical Writer,IT & ITES,1.75,0.5,SAI
+Debajyoti Banerjee,2,Business Analyst,IT & ITES,1.638888888888889,0.5,SAI
+Debajyoti Banerjee,3,Group 2 Officers in Various Departments,Public Administration ,1.5,0.5,SAI
+Debajyoti Banerjee,4,Senior Assistants in Various Departments,Public Administration ,1.5,0.5,SAI
+Debajyoti Banerjee,5,Deputy Tehsildar,Public Administration ,1.4722222222222223,0.5,SAI
+Debajyoti Banerjee,6,Panchayat Secretary,Public Administration ,1.4722222222222223,0.5,SAI
+Debajyoti Banerjee,7,Prohibition & Excise Sub Inspector,Public Administration ,1.4722222222222223,0.5,SAI
+Debajyoti Banerjee,8,Sports Psychologist,Fitness & Lesiure,1.4444444444444446,0.5,SAI
+Debajyoti Banerjee,9,Designer & Master Cutter,Clothing and Accessories,1.3333333333333333,0.5,SAI
+Debajyoti Banerjee,10,UI Designer,IT & ITES,1.2592592592592593,0.6666666666666666,SAI
+Debajyoti Banerjee,11,Engineer-Technical Support,IT & ITES,1.25,0.5,SAI
+Debajyoti Banerjee,12,Website Copywriter,IT & ITES,1.1851851851851851,0.5,SAI
+Debajyoti Banerjee,13,Sports Physiotherapist,Fitness & Lesiure,1.0925925925925926,0.5,SAI
+Debajyoti Banerjee,14,Athletic Coach,Fitness & Lesiure,1.0092592592592593,0.5,SAI
+Debajyoti Banerjee,15,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,1.0092592592592593,0.5,SAI
+Debajyoti Banerjee,16,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,1.0092592592592593,0.5,SAI
+Debajyoti Banerjee,17,Merchandiser,Clothing and Accessories,0.9537037037037036,0.5,SAI
+Debajyoti Banerjee,18,"Designer, Leather Articles",Clothing and Accessories,0.925925925925926,0.5,SAI
+Debajyoti Banerjee,19,"Supervisor & Foreman, Leather Goods Making",Clothing and Accessories,0.8518518518518519,0.5,SAI
+Debajyoti Banerjee,20,Textile Engineer,Clothing and Accessories,0.7685185185185186,0.5,SAI
+Priyanshu Kumar tech,1,Pharmacists,Healthcare & Life Sciences,1.4444444444444444,0.5,IEC
+Priyanshu Kumar tech,2,Commericial Tax Officer,Public Administration ,1.4444444444444444,0.5,IEC
+Priyanshu Kumar tech,3,Business Analyst,IT & ITES,1.2777777777777777,0.5,IEC
+Priyanshu Kumar tech,4,Group 2 Officers in Various Departments,Public Administration ,1.2222222222222223,0.5,IEC
+Priyanshu Kumar tech,5,Senior Assistants in Various Departments,Public Administration ,1.2222222222222223,0.5,IEC
+Priyanshu Kumar tech,6,Engineer-Technical Support,IT & ITES,1.1666666666666667,0.5,IEC
+Priyanshu Kumar tech,7,IT Officer - Banking,Banking & Finance,1.1666666666666667,0.5,IEC
+Priyanshu Kumar tech,8,Blood Bank Technician,Healthcare & Life Sciences,1.111111111111111,0.5,IEC
+Priyanshu Kumar tech,9,Deputy Tehsildar,Public Administration ,1.0555555555555556,0.5,IEC
+Priyanshu Kumar tech,10,Prohibition & Excise Sub Inspector,Public Administration ,1.0555555555555556,0.5,IEC
+Priyanshu Kumar tech,11,QA Engineer (Software Testing Engineer),IT & ITES,1.0185185185185184,0.5,IEC
+Priyanshu Kumar tech,12,Budget Analyst,Banking & Finance,1.0,0.5,IEC
+Priyanshu Kumar tech,13,Surgeon,Healthcare & Life Sciences,0.9722222222222222,0.5,IEC
+Priyanshu Kumar tech,14,Actuary,Banking & Finance,0.9444444444444444,0.5,IEC
+Priyanshu Kumar tech,15,Cost Accountant,Banking & Finance,0.9444444444444444,0.5,IEC
+Priyanshu Kumar tech,16,Auditor,Banking & Finance,0.9444444444444444,0.5,IEC
+Priyanshu Kumar tech,17,Programmer Genreal,IT & ITES,0.9444444444444444,0.5,IEC
+Priyanshu Kumar tech,18,Digital Marketer,IT & ITES,0.9444444444444444,0.5,IEC
+Priyanshu Kumar tech,19,Homoeopathic Physician,Healthcare & Life Sciences,0.9074074074074073,0.5,IEC
+Priyanshu Kumar tech,20,Ayurvedic Physician,Healthcare & Life Sciences,0.9074074074074073,0.5,IEC
+Harsh Jain,1,Business Analyst,IT & ITES,1.388888888888889,0.5,SER
+Harsh Jain,2,IT Officer - Banking,Banking & Finance,1.361111111111111,0.5,SER
+Harsh Jain,3,Sports Psychologist,Fitness & Lesiure,1.361111111111111,0.5,SER
+Harsh Jain,4,Sales Engineer,Engineering & Manufacturing,1.361111111111111,0.5,SER
+Harsh Jain,5,Engineer-Technical Support,IT & ITES,1.361111111111111,0.5,SER
+Harsh Jain,6,Industrial Engineer,Engineering & Manufacturing,1.361111111111111,0.5,SER
+Harsh Jain,7,Technical Writer,IT & ITES,1.3055555555555556,0.5,SER
+Harsh Jain,8,UI Designer,IT & ITES,1.1388888888888886,0.6666666666666666,SER
+Harsh Jain,9,Insurance Officer,Banking & Finance,0.9351851851851853,0.5,SER
+Harsh Jain,10,Sales Engineer,IT & ITES,0.9351851851851853,0.5,SER
+Harsh Jain,11,Athletic Coach,Fitness & Lesiure,0.9259259259259258,0.5,SER
+Harsh Jain,12,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,0.9259259259259258,0.5,SER
+Harsh Jain,13,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,0.9259259259259258,0.5,SER
+Harsh Jain,14,Insurance Agent,Banking & Finance,0.9166666666666666,0.5,SER
+Harsh Jain,15,Bank Manager,Banking & Finance,0.9166666666666666,0.5,SER
+Harsh Jain,16,Insurance Manager,Banking & Finance,0.9166666666666666,0.5,SER
+Harsh Jain,17,Sports Physiotherapist,Fitness & Lesiure,0.9166666666666666,0.5,SER
+Harsh Jain,18,Mechanical Engineer,Engineering & Manufacturing,0.898148148148148,0.5,SER
+Harsh Jain,19,Agricultural Engineer,Engineering & Manufacturing,0.898148148148148,0.5,SER
+Harsh Jain,20,Communication Engineer,Engineering & Manufacturing,0.898148148148148,0.5,SER
+Navya Dhiman,1,Technical Writer,IT & ITES,1.2777777777777777,0.5,ASR
+Navya Dhiman,2,Designer & Master Cutter,Clothing and Accessories,1.25,0.5,ASR
+Navya Dhiman,3,Beautician,Self Employment,1.25,0.5,ASR
+Navya Dhiman,4,Sports Psychologist,Fitness & Lesiure,1.25,0.5,ASR
+Navya Dhiman,5,Business Analyst,IT & ITES,1.2222222222222223,0.5,ASR
+Navya Dhiman,6,Engineer-Technical Support,IT & ITES,1.1944444444444446,0.5,ASR
+Navya Dhiman,7,UI Designer,IT & ITES,1.1111111111111112,0.6666666666666666,ASR
+Navya Dhiman,8,Website Copywriter,IT & ITES,0.8703703703703703,0.5,ASR
+Navya Dhiman,9,"Designer, Leather Articles",Clothing and Accessories,0.8518518518518519,0.5,ASR
+Navya Dhiman,10,Athletic Coach,Fitness & Lesiure,0.8518518518518519,0.5,ASR
+Navya Dhiman,11,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,0.8518518518518519,0.5,ASR
+Navya Dhiman,12,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,0.8518518518518519,0.5,ASR
+Navya Dhiman,13,Sports Physiotherapist,Fitness & Lesiure,0.8425925925925927,0.5,ASR
+Navya Dhiman,14,Merchandiser,Clothing and Accessories,0.824074074074074,0.5,ASR
+Navya Dhiman,15,Photo and Video Studio,Self Employment,0.824074074074074,0.5,ASR
+Navya Dhiman,16,"Supervisor & Foreman, Leather Goods Making",Clothing and Accessories,0.8148148148148148,0.5,ASR
+Navya Dhiman,17,Textile Engineer,Clothing and Accessories,0.8055555555555557,0.5,ASR
+Navya Dhiman,18,Software consultants,Self Employment,0.7962962962962963,0.5,ASR
+Navya Dhiman,19,Mobile & Electronic  Service Sales and Repair,Self Employment,0.712962962962963,0.5,ASR
+Navya Dhiman,20,Electrician,Self Employment,0.712962962962963,0.5,ASR
+Brinda,1,Sports Psychologist,Fitness & Lesiure,1.5,0.5,SRA
+Brinda,2,Technical Writer,IT & ITES,1.4722222222222223,0.5,SRA
+Brinda,3,Designer & Master Cutter,Clothing and Accessories,1.472222222222222,0.5,SRA
+Brinda,4,Beautician,Self Employment,1.472222222222222,0.5,SRA
+Brinda,5,Business Analyst,IT & ITES,1.4166666666666667,0.5,SRA
+Brinda,6,Engineer-Technical Support,IT & ITES,1.361111111111111,0.5,SRA
+Brinda,7,UI Designer,IT & ITES,1.2592592592592593,0.6666666666666666,SRA
+Brinda,8,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,1.0833333333333333,0.5,SRA
+Brinda,9,Athletic Coach,Fitness & Lesiure,1.0833333333333333,0.5,SRA
+Brinda,10,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,1.0833333333333333,0.5,SRA
+Brinda,11,Yoga Therapist,Fitness & Lesiure,1.0648148148148149,0.5,SRA
+Brinda,12,IT Helpdesk Executive,IT & ITES,1.0555555555555556,0.5,SRA
+Brinda,13,"Designer, Leather Articles",Clothing and Accessories,1.0,0.5,SRA
+Brinda,14,Photo and Video Studio,Self Employment,0.9907407407407407,0.5,SRA
+Brinda,15,"Supervisor & Foreman, Leather Goods Making",Clothing and Accessories,0.9629629629629629,0.5,SRA
+Brinda,16,Merchandiser,Clothing and Accessories,0.9537037037037036,0.5,SRA
+Brinda,17,Textile Engineer,Clothing and Accessories,0.9351851851851853,0.5,SRA
+Brinda,18,Mobile & Electronic  Service Sales and Repair,Self Employment,0.9259259259259258,0.5,SRA
+Brinda,19,Electrician,Self Employment,0.9259259259259258,0.5,SRA
+Brinda,20,Offset Printing & Binding,Self Employment,0.9259259259259258,0.5,SRA
+Chandrahas,1,Business Analyst,IT & ITES,1.8333333333333333,0.5,SEI
+Chandrahas,2,Technical Writer,IT & ITES,1.638888888888889,0.5,SEI
+Chandrahas,3,Panchayat Secretary,Public Administration ,1.5555555555555556,0.5,SEI
+Chandrahas,4,Postal Assistant,Public Administration ,1.5555555555555556,0.5,SEI
+Chandrahas,5,Deputy Tehsildar,Public Administration ,1.5555555555555556,0.5,SEI
+Chandrahas,6,Prohibition & Excise Sub Inspector,Public Administration ,1.5555555555555556,0.5,SEI
+Chandrahas,7,Group 2 Officers in Various Departments,Public Administration ,1.527777777777778,0.5,SEI
+Chandrahas,8,Pharmacists,Healthcare & Life Sciences,1.5,0.5,SEI
+Chandrahas,9,Sports Psychologist,Fitness & Lesiure,1.4444444444444444,0.5,SEI
+Chandrahas,10,Engineer-Technical Support,IT & ITES,1.4166666666666667,0.5,SEI
+Chandrahas,11,Sales Engineer,IT & ITES,1.2314814814814816,0.5,SEI
+Chandrahas,12,Trainer,IT & ITES,1.2314814814814816,0.5,SEI
+Chandrahas,13,Psychologist,Healthcare & Life Sciences,1.2314814814814816,0.5,SEI
+Chandrahas,14,Ayurvedic Physician,Healthcare & Life Sciences,1.212962962962963,0.5,SEI
+Chandrahas,15,Homoeopathic Physician,Healthcare & Life Sciences,1.212962962962963,0.5,SEI
+Chandrahas,16,Psychiatrist,Healthcare & Life Sciences,1.212962962962963,0.5,SEI
+Chandrahas,17,Sports Physiotherapist,Fitness & Lesiure,1.101851851851852,0.5,SEI
+Chandrahas,18,Athletic Coach,Fitness & Lesiure,0.9907407407407407,0.5,SEI
+Chandrahas,19,Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,0.9907407407407407,0.5,SEI
+Chandrahas,20,Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,0.9907407407407407,0.5,SEI
+Sanjana Reddy Pamuru,1,Technical Writer,IT & ITES,1.25,0.5,ASC
+Sanjana Reddy Pamuru,2,Prohibition & Excise Sub Inspector,Public Administration ,1.222222222222222,0.5,ASC
+Sanjana Reddy Pamuru,3,Postal Assistant,Public Administration ,1.222222222222222,0.5,ASC
+Sanjana Reddy Pamuru,4,Panchayat Secretary,Public Administration ,1.222222222222222,0.5,ASC
+Sanjana Reddy Pamuru,5,Deputy Tehsildar,Public Administration ,1.222222222222222,0.5,ASC
+Sanjana Reddy Pamuru,6,Group 2 Officers in Various Departments,Public Administration ,1.1944444444444444,0.5,ASC
+Sanjana Reddy Pamuru,7,Nursing Assistant,Healthcare & Life Sciences,1.1944444444444444,0.5,ASC
+Sanjana Reddy Pamuru,8,Designer & Master Cutter,Clothing and Accessories,1.1388888888888888,0.5,ASC
+Sanjana Reddy Pamuru,9,Business Analyst,IT & ITES,1.0833333333333333,0.5,ASC
+Sanjana Reddy Pamuru,10,Surgeon,Healthcare & Life Sciences,1.0833333333333333,0.5,ASC
+Sanjana Reddy Pamuru,11,Pharmacists,Healthcare & Life Sciences,1.0833333333333333,0.5,ASC
+Sanjana Reddy Pamuru,12,Blood Bank Technician,Healthcare & Life Sciences,1.0555555555555556,0.5,ASC
+Sanjana Reddy Pamuru,13,UI Designer,IT & ITES,1.0185185185185184,0.6666666666666666,ASC
+Sanjana Reddy Pamuru,14,Engineer-Technical Support,IT & ITES,0.9444444444444443,0.5,ASC
+Sanjana Reddy Pamuru,15,Website Copywriter,IT & ITES,0.9074074074074073,0.5,ASC
+Sanjana Reddy Pamuru,16,Nurse,Healthcare & Life Sciences,0.8425925925925927,0.5,ASC
+Sanjana Reddy Pamuru,17,"Designer, Leather Articles",Clothing and Accessories,0.8148148148148148,0.5,ASC
+Sanjana Reddy Pamuru,18,Merchandiser,Clothing and Accessories,0.7685185185185185,0.5,ASC
+Sanjana Reddy Pamuru,19,Textile Machine Operators,Clothing and Accessories,0.7037037037037037,0.5,ASC
+Sanjana Reddy Pamuru,20,"Supervisor & Foreman, Leather Goods Making",Clothing and Accessories,0.7037037037037037,0.5,ASC

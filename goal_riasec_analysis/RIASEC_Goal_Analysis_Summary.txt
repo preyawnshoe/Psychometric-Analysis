@@ -1,0 +1,29 @@
+RIASEC-GOAL ORIENTATION CROSS-ANALYSIS SUMMARY REPORT
+============================================================
+Analysis Date: 2025-09-22 14:39:44
+Sample Size: 14 participants
+
+METHODOLOGY:
+- RIASEC: Holland's Career Interest model (6 dimensions)
+- Goal Orientation: 2x2 Achievement Goal Theory (4 dimensions)
+- Statistical tests: Pearson correlation, Spearman correlation, Shapiro-Wilk normality
+- Significance level: alpha = 0.05
+
+KEY FINDINGS:
+- 2 significant Pearson correlations found (p < 0.05)
+- 6 correlations with medium to large effect size (|r| > 0.3)
+  Strongest correlations:
+    Conventional ↔ Mastery_Approach: r = 0.602
+    Investigative ↔ Mastery_Approach: r = 0.551
+    Realistic ↔ Mastery_Approach: r = 0.433
+    Social ↔ Mastery_Approach: r = 0.386
+    Enterprising ↔ Mastery_Approach: r = 0.366
+
+STATISTICAL ASSUMPTIONS:
+- Normality: 7/10 variables normally distributed
+- Non-parametric alternatives (Spearman) also computed
+
+IMPLICATIONS:
+- This analysis explores the relationship between career interests and achievement motivation
+- Results can inform career counseling and educational interventions
+- Individual profiles show diverse patterns of interests and motivation

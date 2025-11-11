@@ -1,0 +1,381 @@
+Career,Domain,Old_RIASEC,New_RIASEC,Score_Difference,Keywords_Matched
+Agricultural Engineer,Agriculture and related,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Food Technologist,Agriculture and related,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Civil Engineer - Irrigation,Agriculture and related,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Chemical Engineer - Fertilizers,Agriculture and related,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Agriculture Engineering Technician,Agriculture and related,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,"engineer, technician"
+Diary Maintanance Mechanic,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.0 A:0.5 S:0.5 E:0.5 C:1.0,2.5,mechanic
+Solar Pump Technician,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Micro Irrigation Technician,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Agronomy and Forestry Technician,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Artificial-breeding Technician,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Agriculture Extension Supervisor,Agriculture and related,R:0.5 I:0.0 A:0.0 S:1.0 E:1.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Agriculture Extension Service Provider,Agriculture and related,R:1.0 I:0.0 A:0.0 S:2.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Agriculture Officer - Banking,Agriculture and related,R:0.5 I:0.0 A:0.0 S:2.0 E:0.0 C:0.5,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.5,officer
+Poultry Scientist,Agriculture and related,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:2.0 A:0.5 S:0.5 E:0.5 C:1.5,3.0,scientist
+Agronomist,Agriculture and related,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Diary Scientist,Agriculture and related,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:2.0 A:0.5 S:0.5 E:0.5 C:1.5,3.0,scientist
+Pisciculturist ,Agriculture and related,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Soil Scientist,Agriculture and related,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:2.0 A:0.5 S:0.5 E:0.5 C:1.5,3.0,scientist
+Cultivator,Agriculture and related,R:1.5 I:0.0 A:0.0 S:0.0 E:0.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Diary Farmer,Agriculture and related,R:1.5 I:0.0 A:0.0 S:0.0 E:0.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Poultry Farmer,Agriculture and related,R:1.5 I:0.0 A:0.0 S:0.0 E:0.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Aquaculturist,Agriculture and related,R:1.5 I:0.0 A:0.0 S:0.0 E:0.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Sericulturist,Agriculture and related,R:1.5 I:0.0 A:0.0 S:0.0 E:0.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Agricultural Inspector,Agriculture and related,R:1.0 I:0.0 A:0.0 S:0.0 E:0.0 C:2.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Fisheries Inspector,Agriculture and related,R:1.0 I:0.0 A:0.0 S:0.0 E:0.0 C:2.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Forest Guard,Agriculture and related,R:1.5 I:0.0 A:0.0 S:1.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Farm Supervisor,Agriculture and related,R:0.5 I:0.0 A:0.0 S:0.0 E:2.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Farm Manager,Agriculture and related,R:0.5 I:0.0 A:0.0 S:0.0 E:2.0 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:1.5,4.5,manager
+Veterinarian,Agriculture and related,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Veterinary Assistant,Agriculture and related,R:2.0 I:0.5 A:0.0 S:0.5 E:0.0 C:0.0,R:0.5 I:0.5 A:0.5 S:1.5 E:1.0 C:1.5,5.5,assistant
+Soil Laboratory Assistant,Agriculture and related,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:0.5 I:0.5 A:0.5 S:1.5 E:1.0 C:1.5,4.5,assistant
+Flying Officier (Fighter Pilot/ Helicoptor and Transport Pilot),Armed Forces and Central police,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Officer (Ground Duty - Administrative) ,Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Officer (Ground Duty - Technical),Armed Forces and Central police,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.5,officer
+Airmen(Group X - Technical),Armed Forces and Central police,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Naval Officer (Engineering),Armed Forces and Central police,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,"engineer, officer"
+Naval Officer (Aviation),Armed Forces and Central police,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Naval Officer (Logistics),Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Naval Officer (Hydrographics),Armed Forces and Central police,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.5,officer
+Sailor,Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.5 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Officer - Infantry,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Officer - Artillery,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Officer - Armoured Corps,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Officer - Technical,Armed Forces and Central police,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.5,officer
+Officer - Military Police,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Officer - Intelligence,Armed Forces and Central police,R:0.0 I:1.0 A:0.5 S:0.0 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Havildar,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:1.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Soldier,Armed Forces and Central police,R:1.0 I:0.0 A:0.0 S:0.5 E:0.0 C:1.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Soldier - Technical,Armed Forces and Central police,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Constable,Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.5 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Inspector,Armed Forces and Central police,R:0.5 I:0.0 A:0.0 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Constable,Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.5 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Inspector,Armed Forces and Central police,R:0.5 I:0.0 A:0.0 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Constable,Armed Forces and Central police,R:1.5 I:0.0 A:0.0 S:0.5 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Inspector,Armed Forces and Central police,R:0.5 I:0.0 A:0.0 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Architect,"Arts, Design, Creative",R:0.5 I:1.0 A:1.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,3.5,
+Fashion Designer,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Footwear Designer,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Textile Designers,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Furniture Designer,"Arts, Design, Creative",R:1.5 I:0.0 A:1.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,5.0,designer
+Gemologist,"Arts, Design, Creative",R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Jewellery Designer,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Graphics Designer,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Interior Designer,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Illustrator,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Film Animator,"Arts, Design, Creative",R:0.0 I:0.5 A:2.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Photographer,"Arts, Design, Creative",R:2.0 I:0.0 A:1.0 S:0.0 E:0.0 C:0.0,R:1.5 I:1.0 A:2.0 S:1.0 E:1.0 C:0.5,5.0,photographer
+Product Designer,"Arts, Design, Creative",R:1.5 I:0.5 A:1.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,5.0,designer
+User Experience Designer,"Arts, Design, Creative",R:0.0 I:1.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Painter,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,3.5,
+Author,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+"Scriptwriter, Screenplay Writer","Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.5 E:0.5 C:0.0,R:0.0 I:1.5 A:2.0 S:1.0 E:1.0 C:0.5,3.0,writer
+Advertising Copywriter,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.5 E:0.5 C:0.0,R:0.0 I:1.5 A:2.0 S:1.0 E:1.0 C:0.5,3.0,writer
+Videography,"Arts, Design, Creative",R:2.0 I:0.0 A:1.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,5.5,
+Sculptor,"Arts, Design, Creative",R:1.0 I:0.0 A:1.5 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,3.5,
+Singer - Classical Indian,"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Actor (Film & Stage),"Arts, Design, Creative",R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Musical Instrument Maker,"Arts, Design, Creative",R:1.5 I:0.0 A:1.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.5 S:1.0 E:1.0 C:1.0,4.5,
+Company Secretary,Banking & Finance,R:0.0 I:0.0 A:0.0 S:0.5 E:1.0 C:1.5,R:0.0 I:0.5 A:0.5 S:1.5 E:1.5 C:2.0,3.0,secretary
+Cost Accountant,Banking & Finance,R:0.0 I:1.0 A:0.0 S:0.0 E:0.5 C:1.5,R:0.0 I:1.5 A:0.0 S:1.0 E:1.5 C:2.0,3.0,accountant
+Accountant,Banking & Finance,R:0.0 I:0.5 A:0.0 S:0.5 E:0.0 C:1.5,R:0.0 I:1.5 A:0.0 S:1.0 E:1.5 C:2.0,3.5,accountant
+Financial Planners,Banking & Finance,R:0.0 I:0.0 A:0.5 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,4.0,
+Actuary,Banking & Finance,R:0.0 I:1.0 A:0.0 S:0.0 E:0.5 C:1.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,4.0,
+Tax consultant,Banking & Finance,R:0.0 I:0.0 A:0.5 S:0.0 E:1.5 C:1.0,R:0.0 I:1.5 A:0.5 S:1.5 E:2.0 C:1.5,4.0,consultant
+Auditor,Banking & Finance,R:0.0 I:1.0 A:0.0 S:0.0 E:0.5 C:1.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,4.0,
+Budget Analyst,Banking & Finance,R:0.0 I:1.5 A:0.0 S:0.0 E:0.0 C:1.5,R:0.0 I:2.0 A:0.5 S:1.0 E:1.5 C:2.0,4.0,analyst
+Cashier/Teller,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:0.0 C:2.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,5.0,
+Bank Clerk,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:0.0 C:2.0,R:0.0 I:0.5 A:0.0 S:1.5 E:1.0 C:2.0,2.0,clerk
+Bank Probationary Officer,Banking & Finance,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,5.5,officer
+Insurance Officer,Banking & Finance,R:0.0 I:0.5 A:0.0 S:1.0 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,5.5,officer
+Insurance Agent,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,4.0,
+Bank Manager,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,4.0,manager
+Insurance Manager,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,4.0,manager
+DSA/Sales Executives,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,4.0,"executive, sales"
+Stock Broker,Banking & Finance,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,4.0,
+Phone Banking Officer,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.0 E:0.5 C:1.5,R:1.5 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,5.5,officer
+Relationship Manager,Banking & Finance,R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,4.0,manager
+Economist,Banking & Finance,R:0.0 I:1.5 A:1.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,5.0,
+Statistician,Banking & Finance,R:0.0 I:1.5 A:1.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.5 C:1.5,5.0,
+IT Officer - Banking,Banking & Finance,R:1.0 I:1.0 A:0.0 S:0.0 E:1.0 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:2.0 C:2.0,5.5,officer
+Electrician (Self Employed),Building & Construction,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Carpenter ,Building & Construction,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Plumber,Building & Construction,R:2.0 I:0.0 A:0.0 S:0.0 E:0.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Crane Operator,Building & Construction,R:2.0 I:0.0 A:0.0 S:0.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Interior Designer,Building & Construction,R:0.25 I:0.0 A:2.0 S:0.0 E:0.75 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Architect,Building & Construction,R:0.5 I:1.0 A:1.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Supervisor/Foreman - Building Construction,Building & Construction,R:1.0 I:0.0 A:0.0 S:0.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Surveyor,Building & Construction,R:1.5 I:0.0 A:0.0 S:0.0 E:0.0 C:1.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Real Estate Broker,Building & Construction,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Proprietor - Construction,Building & Construction,R:0.5 I:0.0 A:0.0 S:0.5 E:2.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Textile Machine Operators,Clothing and Accessories,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Designer & Master Cutter,Clothing and Accessories,R:1.0 I:0.0 A:1.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+Merchandiser,Clothing and Accessories,R:0.5 I:0.0 A:1.0 S:0.0 E:1.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Textile Engineer,Clothing and Accessories,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+"Designer, Leather Articles",Clothing and Accessories,R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:2.0 S:1.0 E:1.5 C:0.5,4.0,designer
+"Supervisor & Foreman, Leather Goods Making",Clothing and Accessories,R:1.0 I:0.0 A:0.5 S:0.0 E:1.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+"Machine Operator, Leather Industries",Clothing and Accessories,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+"University and College Teacher, Arts Subjects",Education & Training,R:0.0 I:0.5 A:0.0 S:2.0 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Commerce Subjects",Education & Training,R:0.0 I:0.5 A:0.0 S:2.0 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Education",Education & Training,R:0.0 I:0.0 A:0.5 S:2.0 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Engineering",Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:1.0 E:1.0 C:1.5,5.5,"engineer, teacher"
+"University and College Teacher, Fine Arts",Education & Training,R:0.0 I:0.5 A:1.5 S:1.0 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Information Technology",Education & Training,R:0.0 I:1.0 A:0.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Law",Education & Training,R:0.0 I:1.0 A:0.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Management Subjects",Education & Training,R:0.0 I:0.5 A:0.0 S:2.0 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Medicine and Surgery",Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Science Subjects",Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"University and College Teacher, Veterinary Science",Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Art & Crafts  Teacher,Education & Training,R:0.5 I:0.0 A:1.5 S:1.0 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"Senior Secondary and Secondary School Teacher, Arts",Education & Training,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"Senior Secondary and Secondary School Teacher, Commerce",Education & Training,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+"Senior Secondary and Secondary School Teacher, Science",Education & Training,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Primary School Teacher,Education & Training,R:0.0 I:0.0 A:0.5 S:2.0 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Teacher Pre-Primary,Education & Training,R:0.0 I:0.0 A:1.0 S:2.0 E:0.0 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Teacher for Differently-Abled (Mental),Education & Training,R:0.0 I:0.0 A:1.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Teacher for Differently-Abled (Physical),Education & Training,R:0.0 I:0.0 A:1.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,4.5,teacher
+Headmaster,Education & Training,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,4.5,
+"Principal, College",Education & Training,R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,3.5,
+Counsellor,Education & Training,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,3.5,
+Librarian,Education & Training,R:0.0 I:0.0 A:0.0 S:1.0 E:0.5 C:1.5,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,4.5,
+ITI Lecturer,Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,3.5,
+Polytechnic Lecturer,Education & Training,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,3.5,
+Skill & LIvelihood Trainer,Education & Training,R:0.5 I:0.0 A:0.0 S:1.5 E:1.0 C:0.0,R:0.5 I:1.0 A:1.0 S:2.0 E:1.5 C:1.0,4.0,trainer
+Corporate Trainer,Education & Training,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:0.5 I:1.0 A:1.0 S:2.0 E:1.5 C:1.0,4.0,trainer
+Mathematician,Education & Training,R:0.0 I:2.0 A:1.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.5 E:1.0 C:1.0,5.5,
+Draftsman,"Hardware, Electronics",R:1.0 I:0.5 A:1.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Electronics Fitter,"Hardware, Electronics",R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Electronic Mechanic,"Hardware, Electronics",R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:1.0 A:0.5 S:0.5 E:0.5 C:1.0,2.5,mechanic
+LED Light Repair and Testring Technician,"Hardware, Electronics",R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Solar Panel Installation Technician,"Hardware, Electronics",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,4.5,technician
+Smartphone Repair Technician,"Hardware, Electronics",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,4.5,technician
+Sales Executive,"Hardware, Electronics",R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:1.5,3.5,"executive, sales"
+Customer Care Executive,"Hardware, Electronics",R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:1.5,3.5,executive
+Electro-Optical Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Optical Fiber Splicer/Technician,"Hardware, Electronics",R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Electronic Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Electronic Hardware Design Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Electrical Design Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Embedded Software Engineer,"Hardware, Electronics",R:0.5 I:2.0 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Network Management Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+LED Light Design Engineer,"Hardware, Electronics",R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Solar PV System Installation Engineer,"Hardware, Electronics",R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+CCTV Installation Technician,"Hardware, Electronics",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,4.5,technician
+Handset Repair Engineer,"Hardware, Electronics",R:2.0 I:0.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,5.0,engineer
+Industrial Engineer,Engineering & Manufacturing,R:1.0 I:1.0 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Mechanical Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,"engineer, mechanic"
+Aeronautical Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Agricultural Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Aircraft Maintenance Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Chemical Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Civil Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.5 S:0.0 E:0.0 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Communication Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Computer Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Biochemical Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Bio Medical Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Electrical & Electronics Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Electronics & Communication Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Electronics & Instrumentation Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Environmental Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Robotics Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Robotic Machine Operator,Engineering & Manufacturing,R:1.5 I:0.5 A:0.5 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Sales Engineer,Engineering & Manufacturing,R:1.0 I:1.0 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,"engineer, sales"
+Nuclear Engineer,Engineering & Manufacturing,R:1.0 I:1.5 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Material Scientist,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:0.5 C:1.5,3.5,scientist
+Mining & Merallurgical Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Metallurgical Engineer,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:2.0 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.5,engineer
+Plastic Technologists,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Electrician,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Plumber,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Fitter,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Tool & Die Maker,Engineering & Manufacturing,R:2.0 I:0.5 A:1.0 S:0.0 E:0.0 C:0.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.5,
+Aircraft Engine Mechanic,Engineering & Manufacturing,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.0,3.0,mechanic
+Avionics Technician,Engineering & Manufacturing,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:0.5 E:0.5 C:1.5,4.0,technician
+Air Compressor Operator,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+CNC Operator - Grinding Machine Centre,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Draughtsman-Mechanical,Engineering & Manufacturing,R:1.0 I:0.5 A:1.5 S:0.0 E:0.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.0,5.0,mechanic
+Power Plant Operator,Engineering & Manufacturing,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Water Treatment Plant Operator,Engineering & Manufacturing,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Sewage Treatment Plant Operator,Engineering & Manufacturing,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+"Turbine Operator, Hydel",Engineering & Manufacturing,R:1.5 I:0.5 A:0.0 S:0.0 E:0.0 C:1.0,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Lathe Machine Operator,Engineering & Manufacturing,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:1.5 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Athletic Coach,Fitness & Lesiure,R:1.0 I:0.0 A:0.0 S:1.5 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Fitness Trainer/ Fitness Instructor,Fitness & Lesiure,R:1.0 I:0.0 A:0.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.0 A:1.0 S:2.0 E:1.5 C:1.0,5.0,trainer
+Physical Training Instructor/ Physical Education Teacher,Fitness & Lesiure,R:1.0 I:0.0 A:0.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.5 S:2.0 E:1.0 C:1.0,5.5,teacher
+"Professional Sportsman/ Professional, Athelete",Fitness & Lesiure,R:2.0 I:0.0 A:0.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Sports Physiotherapist,Fitness & Lesiure,R:0.5 I:1.0 A:0.0 S:1.5 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:2.0 E:0.5 C:1.0,4.0,therapist
+Yoga Therapist,Fitness & Lesiure,R:1.5 I:0.0 A:0.0 S:1.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:2.0 E:0.5 C:1.0,5.0,therapist
+Sports Psychologist,Fitness & Lesiure,R:1.0 I:1.0 A:0.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,3.0,
+Ayurvedic Physician,Healthcare & Life Sciences,R:0.0 I:1.5 A:0.0 S:1.0 E:0.5 C:0.0,R:0.5 I:2.0 A:0.5 S:2.0 E:1.0 C:1.0,4.0,physician
+Physician,Healthcare & Life Sciences,R:0.5 I:1.5 A:0.0 S:1.0 E:0.0 C:0.0,R:0.5 I:2.0 A:0.5 S:2.0 E:1.0 C:1.0,4.0,physician
+Surgeon,Healthcare & Life Sciences,R:1.0 I:1.0 A:0.5 S:0.0 E:0.0 C:0.5,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Neurologist,Healthcare & Life Sciences,R:0.5 I:1.5 A:1.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Dentist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.5 I:2.0 A:1.0 S:2.0 E:1.0 C:1.0,5.5,dentist
+Homoeopathic Physician,Healthcare & Life Sciences,R:0.0 I:1.5 A:0.0 S:1.0 E:0.5 C:0.0,R:0.5 I:2.0 A:0.5 S:2.0 E:1.0 C:1.0,4.0,physician
+Veterinarian,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Physiotherapists,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:2.0 A:1.0 S:2.0 E:0.5 C:1.0,4.5,therapist
+Psychiatrist,Healthcare & Life Sciences,R:0.0 I:1.5 A:0.0 S:1.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Psychologist,Healthcare & Life Sciences,R:0.0 I:1.0 A:0.0 S:1.5 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Forensic Scientists,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,scientist
+Microbiologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,biologist
+Anesthesiologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Nutritionist,Healthcare & Life Sciences,R:0.0 I:2.0 A:0.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,5.0,
+Pathologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Opthalomogists,Healthcare & Life Sciences,R:0.0 I:1.5 A:0.0 S:1.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Pharmacists,Healthcare & Life Sciences,R:0.0 I:1.0 A:0.0 S:0.0 E:1.0 C:1.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+ECG Technician,Healthcare & Life Sciences,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,4.5,technician
+Blood Bank Technician,Healthcare & Life Sciences,R:1.0 I:1.0 A:0.0 S:0.0 E:0.0 C:1.0,R:2.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,4.5,technician
+Medical Imaging Technician,Healthcare & Life Sciences,R:0.0 I:1.5 A:0.0 S:1.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,4.5,technician
+Dental Technician,Healthcare & Life Sciences,R:2.0 I:0.5 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,4.5,technician
+Nurse,Healthcare & Life Sciences,R:0.5 I:0.0 A:0.0 S:1.5 E:0.0 C:1.0,R:1.0 I:1.5 A:0.5 S:2.0 E:0.5 C:1.5,4.0,nurse
+Nursing Assistant,Healthcare & Life Sciences,R:1.0 I:0.0 A:0.0 S:1.0 E:0.0 C:1.0,R:0.5 I:1.0 A:0.5 S:2.0 E:1.0 C:1.5,4.5,assistant
+Bio-Medical Engineer,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:1.0 E:1.0 C:1.5,4.5,engineer
+Ecologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Entomologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Forensic Science Technician,Healthcare & Life Sciences,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,4.5,technician
+Marine Biologist,Healthcare & Life Sciences,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,biologist
+Plant Physiologist,Healthcare & Life Sciences,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,5.0,
+"Chemist, Organic",Healthcare & Life Sciences,R:0.5 I:2.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,chemist
+Environmental Scientist (Including Health),Healthcare & Life Sciences,R:0.5 I:2.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,scientist
+Zoologist,Healthcare & Life Sciences,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,5.0,
+Chemist,Healthcare & Life Sciences,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:2.0 A:0.5 S:1.0 E:0.5 C:1.5,3.5,chemist
+Acupuncturist,Healthcare & Life Sciences,R:1.5 I:0.5 A:0.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,5.0,
+Dermatologist,Healthcare & Life Sciences,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Speech Theropist,Healthcare & Life Sciences,R:0.0 I:1.0 A:0.5 S:1.5 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.5 E:1.0 C:1.0,4.0,
+Ethical Hacker,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.5 A:1.0 S:1.0 E:1.0 C:1.5,4.0,
+QA Engineer (Software Testing Engineer),IT & ITES,R:0.0 I:1.5 A:0.0 S:0.0 E:0.5 C:1.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,4.5,engineer
+AI Engineer,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,5.5,engineer
+Software Architect,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.5 A:1.0 S:1.0 E:1.0 C:1.5,4.0,
+Network Engineer,IT & ITES,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,4.5,engineer
+System Administrator,IT & ITES,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:2.0 A:0.5 S:1.0 E:1.0 C:2.0,5.5,administrator
+Digital Marketer,IT & ITES,R:0.0 I:1.5 A:0.5 S:0.0 E:1.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.0 E:1.0 C:1.5,4.0,
+IT Project Manager,IT & ITES,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.5 A:0.5 S:1.5 E:2.0 C:2.0,4.5,manager
+Technical Writer,IT & ITES,R:0.0 I:1.0 A:1.0 S:1.0 E:0.0 C:0.0,R:0.0 I:2.0 A:2.0 S:1.0 E:1.0 C:1.0,4.0,writer
+Website Copywriter,IT & ITES,R:0.0 I:0.0 A:1.5 S:1.0 E:0.5 C:0.0,R:0.0 I:2.0 A:2.0 S:1.0 E:1.0 C:1.0,4.0,writer
+Trainer,IT & ITES,R:0.0 I:1.0 A:0.0 S:1.5 E:0.5 C:0.0,R:0.5 I:1.5 A:1.0 S:2.0 E:1.5 C:1.5,5.0,trainer
+Sales Engineer,IT & ITES,R:0.0 I:0.5 A:0.0 S:1.0 E:1.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,6.5,"engineer, sales"
+Hardware Engineer,IT & ITES,R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,4.5,engineer
+IT Helpdesk Executive,IT & ITES,R:0.5 I:0.0 A:0.0 S:1.5 E:1.0 C:0.0,R:0.0 I:1.5 A:0.5 S:1.5 E:2.0 C:2.0,5.5,executive
+Engineer-Technical Support,IT & ITES,R:1.0 I:1.0 A:0.0 S:0.0 E:1.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:2.0,4.5,engineer
+Cloud Computing Analyst,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.0 C:0.5,R:0.0 I:2.0 A:0.5 S:1.0 E:1.0 C:2.0,4.5,analyst
+Web Designer,IT & ITES,R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.5 A:2.0 S:1.0 E:1.5 C:1.0,5.0,designer
+Web Developer,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.5 C:0.0,R:0.5 I:2.0 A:1.5 S:0.5 E:1.0 C:1.5,4.0,developer
+Mobile App Developer,IT & ITES,R:0.0 I:1.5 A:1.0 S:0.0 E:0.5 C:0.0,R:0.5 I:2.0 A:1.5 S:0.5 E:1.0 C:1.5,4.0,developer
+Big Data Analyst,IT & ITES,R:0.0 I:1.5 A:0.5 S:0.0 E:0.0 C:1.0,R:0.0 I:2.0 A:0.5 S:1.0 E:1.0 C:2.0,3.5,analyst
+Programmer Genreal,IT & ITES,R:0.0 I:1.5 A:0.5 S:0.0 E:1.0 C:0.0,R:0.5 I:2.0 A:1.0 S:0.5 E:1.0 C:2.0,4.0,programmer
+Business Analyst,IT & ITES,R:0.0 I:1.0 A:0.0 S:1.0 E:1.0 C:0.0,R:0.0 I:2.0 A:0.5 S:1.0 E:1.0 C:2.0,3.5,analyst
+Associate-Medical Transcription,IT & ITES,R:0.0 I:0.5 A:0.0 S:1.5 E:0.0 C:1.0,R:1.0 I:1.5 A:1.0 S:1.0 E:1.0 C:1.5,5.0,
+UI Designer,IT & ITES,R:1.0 I:1.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.5 A:2.0 S:1.0 E:1.5 C:1.0,4.0,designer
+Social Worker,Social Sciences & Human Services,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Marriage and Family Counsellor,Social Sciences & Human Services,R:0.0 I:0.0 A:0.5 S:2.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Public Policy Analyst,Social Sciences & Human Services,R:0.0 I:1.0 A:0.0 S:1.5 E:0.0 C:0.5,R:0.0 I:2.0 A:0.5 S:1.0 E:1.0 C:1.5,4.0,analyst
+Communications Officer ,Social Sciences & Human Services,R:0.0 I:0.0 A:0.5 S:1.0 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Archaeologist,Social Sciences & Human Services,R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Sociologist,Social Sciences & Human Services,R:0.0 I:1.0 A:0.0 S:1.5 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Geographer,Social Sciences & Human Services,R:1.5 I:1.0 A:0.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Geologist,Social Sciences & Human Services,R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Historian,Social Sciences & Human Services,R:0.0 I:1.5 A:0.0 S:1.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Palaeontologist,Social Sciences & Human Services,R:1.0 I:2.0 A:0.0 S:0.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Psychologist,Social Sciences & Human Services,R:0.0 I:1.5 A:1.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Hospital Counsellor,Social Sciences & Human Services,R:0.0 I:0.0 A:0.5 S:2.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Judge,Law & Order,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:2.0 A:0.5 S:1.5 E:2.0 C:2.0,5.0,judge
+Civil Lawyer,Law & Order,R:0.0 I:0.5 A:0.0 S:1.0 E:1.5 C:0.0,R:0.0 I:2.0 A:1.0 S:1.5 E:2.0 C:1.5,5.0,lawyer
+Criminal Lawyer,Law & Order,R:0.0 I:0.5 A:0.0 S:1.0 E:1.5 C:0.0,R:0.0 I:2.0 A:1.0 S:1.5 E:2.0 C:1.5,5.0,lawyer
+Criminal Investigator,Law & Order,R:0.0 I:1.0 A:0.0 S:0.0 E:2.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.0 E:1.5 C:1.0,5.0,
+Anthropologist,Law & Order,R:1.0 I:1.5 A:0.5 S:0.0 E:0.0 C:0.0,R:1.0 I:1.5 A:1.0 S:1.0 E:1.5 C:1.0,4.0,
+HR Executive,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:0.5 C:1.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,executive
+HR Manager,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,manager
+Marketing Manager,Management & Marketing,R:0.0 I:0.0 A:0.5 S:1.0 E:1.5 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,"manager, marketing"
+Market Research Executive,Management & Marketing,R:0.0 I:1.5 A:0.5 S:0.0 E:1.0 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,5.0,executive
+Marketing Executive,Management & Marketing,R:0.0 I:0.0 A:0.5 S:1.5 E:1.0 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,"executive, marketing"
+Public Relations Executive,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,executive
+Public Relations Manager,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,manager
+Labour Welfare Officier,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.5 E:1.5 C:1.0,4.0,
+Health & Safety Officer,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.5 E:0.5 C:1.0,R:1.5 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,5.5,officer
+Sales Executive,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,"executive, sales"
+Counter sales Executives,Management & Marketing,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,"executive, sales"
+Sales Manager,Management & Marketing,R:0.0 I:0.0 A:0.5 S:0.5 E:2.0 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,"manager, sales"
+Project Manager,Management & Marketing,R:0.0 I:0.5 A:0.0 S:0.5 E:0.5 C:1.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,manager
+IT Manager,Management & Marketing,R:0.0 I:0.5 A:0.0 S:1.0 E:1.5 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,manager
+Brand Manager,Management & Marketing,R:0.0 I:0.5 A:1.5 S:0.0 E:1.0 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,6.0,manager
+Communications officer,Management & Marketing,R:0.0 I:0.0 A:0.5 S:1.0 E:1.5 C:0.0,R:1.5 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,5.5,officer
+Social Media Manager,Management & Marketing,R:0.0 I:0.0 A:1.5 S:0.5 E:1.0 C:0.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,6.0,manager
+Executive - Event Management,Management & Marketing,R:0.0 I:0.0 A:1.0 S:0.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,5.0,executive
+Armed Security Guard,Management & Marketing,R:2.0 I:0.0 A:0.0 S:0.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.5 E:1.5 C:1.0,6.0,
+Security Supervisor,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.5 E:1.5 C:1.0,4.0,
+Facilities/Operations Manager,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,manager
+Receptionist/Front Office Executive,Management & Marketing,R:0.0 I:0.0 A:0.0 S:1.5 E:0.5 C:1.0,R:0.0 I:1.0 A:0.5 S:2.0 E:2.0 C:1.5,4.0,executive
+Anchor,Media & Entertainment,R:0.0 I:0.0 A:1.5 S:0.5 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+News Reader,Media & Entertainment,R:0.0 I:0.0 A:1.0 S:0.5 E:0.0 C:1.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Journalist,Media & Entertainment,R:0.0 I:1.5 A:1.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Editor,Media & Entertainment,R:0.0 I:0.0 A:0.5 S:1.0 E:1.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Radio Jockey,Media & Entertainment,R:0.0 I:0.0 A:2.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+"Writer - Fiction, Creative",Media & Entertainment,R:0.0 I:0.0 A:2.5 S:0.5 E:0.0 C:0.0,R:0.0 I:1.5 A:2.0 S:1.0 E:1.0 C:0.5,4.0,writer
+Ad Copywriter,Media & Entertainment,R:0.0 I:0.0 A:1.5 S:1.0 E:0.5 C:0.0,R:0.0 I:1.5 A:2.0 S:1.0 E:1.0 C:0.5,3.0,writer
+Modeling,Media & Entertainment,R:1.0 I:0.0 A:1.5 S:0.0 E:0.5 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Music Director,Media & Entertainment,R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Cartoonist,Media & Entertainment,R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Film Director,Media & Entertainment,R:0.0 I:0.0 A:2.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Film Animator,Media & Entertainment,R:0.0 I:0.5 A:1.5 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Actor (Film & Stage),Media & Entertainment,R:0.0 I:0.0 A:1.5 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Indian Admin Service Officer,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Indian Police Service Officer,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:2.0 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.0,officer
+Other All India Services,Public Administration ,R:0.0 I:0.5 A:0.0 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Deputy Collector,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Municipal Commissioner,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Asisstant Supdt. of Police,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Assistant Prohibition and Excise Superintendent,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:2.0 C:1.0,R:0.5 I:0.5 A:0.5 S:1.5 E:1.0 C:1.5,4.0,assistant
+Group 1 Officers in various departments,Public Administration ,R:0.0 I:0.5 A:0.0 S:0.0 E:1.5 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Commericial Tax Officer,Public Administration ,R:0.0 I:1.0 A:0.0 S:0.0 E:1.0 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Deputy Tehsildar,Public Administration ,R:0.0 I:0.0 A:0.0 S:1.0 E:1.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,3.0,
+Prohibition & Excise Sub Inspector,Public Administration ,R:0.0 I:0.0 A:0.0 S:1.0 E:1.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,3.0,
+Group 2 Officers in Various Departments,Public Administration ,R:0.0 I:1.0 A:0.0 S:1.0 E:0.0 C:1.0,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,4.5,officer
+Senior Assistants in Various Departments,Public Administration ,R:0.0 I:1.0 A:0.0 S:1.0 E:0.0 C:1.0,R:0.5 I:0.5 A:0.5 S:1.5 E:1.0 C:1.5,3.5,assistant
+Panchayat Secretary,Public Administration ,R:0.0 I:0.0 A:0.0 S:1.0 E:1.0 C:1.0,R:0.0 I:0.5 A:0.5 S:1.5 E:1.0 C:2.0,2.5,secretary
+Group 4 Employees,Public Administration ,R:1.0 I:0.0 A:0.0 S:1.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,3.0,
+SI,Public Administration ,R:0.0 I:0.0 A:0.0 S:0.5 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Police Constable,Public Administration ,R:1.0 I:0.0 A:0.0 S:1.5 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Engineer - Railways,Public Administration ,R:0.5 I:1.0 A:0.0 S:0.0 E:1.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,5.0,engineer
+Station Master-Railway,Public Administration ,R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Ticket Collector-Railway,Public Administration ,R:0.0 I:0.0 A:0.0 S:2.0 E:0.0 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Railway Constable,Public Administration ,R:1.0 I:0.0 A:0.0 S:1.5 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Assistant Executive Engineer - Various Departments,Public Administration ,R:0.5 I:1.0 A:0.0 S:0.0 E:1.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,5.0,"engineer, executive, assistant"
+Deputy Surgeon,Public Administration ,R:1.0 I:1.5 A:0.0 S:0.5 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Postal Assistant,Public Administration ,R:0.0 I:0.0 A:0.0 S:1.0 E:1.0 C:1.0,R:0.5 I:0.5 A:0.5 S:1.5 E:1.0 C:1.5,2.5,assistant
+Postman,Public Administration ,R:0.5 I:0.0 A:0.0 S:2.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Mail Guard,Public Administration ,R:1.5 I:0.0 A:0.0 S:1.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Chef,"Retail, Tourism and Hospitality",R:1.5 I:0.0 A:1.0 S:0.0 E:0.5 C:0.0,R:1.5 I:0.5 A:1.5 S:1.0 E:1.0 C:0.5,3.0,chef
+Hotel Manager,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:1.5,3.5,manager
+Flight Attendants and Travel Stewards,"Retail, Tourism and Hospitality",R:1.0 I:0.0 A:0.0 S:1.5 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Food & Beverage Service Steward,"Retail, Tourism and Hospitality",R:1.0 I:0.0 A:0.0 S:1.5 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Housekeeping Supervisor,"Retail, Tourism and Hospitality",R:0.5 I:0.0 A:0.0 S:1.5 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Manager Lodging and Catering Services,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:0.0 I:1.0 A:0.5 S:1.5 E:2.0 C:1.5,3.5,manager
+Tourist Guide,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:2.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.5 S:2.0 E:1.5 C:0.5,5.5,guide
+Adventure Guide,"Retail, Tourism and Hospitality",R:1.0 I:0.0 A:0.0 S:1.5 E:0.5 C:0.0,R:1.0 I:1.0 A:1.5 S:2.0 E:1.5 C:0.5,4.5,guide
+Travel Consultant,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:0.0 S:1.5 E:1.0 C:0.5,R:0.0 I:1.5 A:0.5 S:1.5 E:2.0 C:1.0,3.5,consultant
+Interpreters & Translators,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:2.0 S:1.0 E:0.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Medical Sales Representative,"Retail, Tourism and Hospitality",R:0.0 I:0.0 A:0.0 S:1.0 E:1.5 C:0.5,R:0.0 I:0.5 A:1.0 S:1.5 E:2.0 C:1.0,3.0,sales
+Software consultants,Self Employment,R:0.0 I:1.0 A:0.5 S:0.0 E:1.5 C:0.0,R:0.0 I:1.5 A:0.5 S:1.5 E:2.0 C:1.0,3.5,consultant
+Beautician,Self Employment,R:1.0 I:0.0 A:1.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,3.0,
+Mobile & Electronic  Service Sales and Repair,Self Employment,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:0.0 I:0.5 A:1.0 S:1.5 E:2.0 C:1.0,6.0,sales
+Photo and Video Studio,Self Employment,R:1.5 I:0.0 A:0.5 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Electrician,Self Employment,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Offset Printing & Binding,Self Employment,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Taxi Owner,Self Employment,R:2.0 I:0.0 A:0.0 S:0.0 E:1.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Computer / Xerox Centre,Self Employment,R:1.5 I:0.0 A:0.0 S:0.0 E:1.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Rural Transport Service,Self Employment,R:1.0 I:0.0 A:0.0 S:0.0 E:2.0 C:0.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+"Engineer, Merchant Navy","Transportation, Logistics,",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Naval Technician,"Transportation, Logistics,",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,4.5,technician
+"Officer, Merchant Navy","Transportation, Logistics,",R:0.5 I:0.0 A:0.0 S:0.0 E:2.0 C:0.5,R:1.5 I:1.0 A:0.5 S:1.5 E:1.5 C:1.5,5.5,officer
+warehouse Supervisor,"Transportation, Logistics,",R:1.0 I:0.0 A:0.0 S:0.0 E:1.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Automative service Technician,"Transportation, Logistics,",R:1.5 I:0.5 A:0.0 S:0.0 E:1.0 C:0.0,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,4.5,technician
+Commercial Pilot,"Transportation, Logistics,",R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Airline Cabin Crew,"Transportation, Logistics,",R:1.0 I:0.0 A:0.0 S:1.5 E:0.0 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,
+Avionics Technician,"Transportation, Logistics,",R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:1.5 A:0.5 S:0.5 E:0.5 C:1.5,3.5,technician
+Aircraft Engine Mechanic,"Transportation, Logistics,",R:1.5 I:1.0 A:0.0 S:0.0 E:0.0 C:0.5,R:2.0 I:1.0 A:0.5 S:0.5 E:0.5 C:1.0,2.5,mechanic
+Avionics Engineer,"Transportation, Logistics,",R:1.5 I:1.0 A:0.0 S:0.0 E:0.5 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Aviation Engineer,"Transportation, Logistics,",R:1.5 I:1.0 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Aerospace Engineer,"Transportation, Logistics,",R:1.5 I:1.0 A:0.5 S:0.0 E:0.0 C:0.0,R:1.5 I:2.0 A:0.5 S:0.5 E:1.0 C:1.5,4.0,engineer
+Commercial Vehicle Driver,"Transportation, Logistics,",R:2.0 I:0.0 A:0.0 S:0.0 E:0.5 C:0.5,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,5.0,
+Air traffic controller,"Transportation, Logistics,",R:0.5 I:0.0 A:0.0 S:0.0 E:1.5 C:1.0,R:1.0 I:1.0 A:1.0 S:1.0 E:1.0 C:1.0,4.0,

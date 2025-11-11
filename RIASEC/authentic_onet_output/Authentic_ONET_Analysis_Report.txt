@@ -1,0 +1,806 @@
+================================================================================
+AUTHENTIC O*NET INTEREST PROFILER CAREER ANALYSIS
+================================================================================
+Generated: October 23, 2025 at 08:46 PM
+
+ABOUT THIS ANALYSIS
+--------------------------------------------------
+• Uses authentic O*NET occupational interest profiles
+• Based on official O*NET Interest Profiler methodology
+• Includes real O*NET-SOC occupation codes
+• Job Zones indicate education/training requirements:
+  - Zone 2: Some college, associate degree, or apprenticeship
+  - Zone 3: Vocational training or bachelor's degree
+  - Zone 4: Bachelor's degree
+  - Zone 5: Graduate degree or extensive experience
+
+MATCH CATEGORIES
+--------------------------------------------------
+• Excellent (80-100): Outstanding match, strongly recommended
+• Good (65-79): Very good match, recommended for exploration
+• Fair (50-64): Moderate match, consider with other factors
+• Poor (<50): Low match, may not be suitable
+
+
+🎯 VANDANA - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: SIE
+Primary Interest: Social
+Interest Pattern: 4H-2M
+High Interest Areas: Investigative, Artistic, Social, Enterprising
+Moderate Interest Areas: Realistic, Conventional
+Average O*NET Match Score: 67.6/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 19
+• Fair Matches: 11
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 1 careers
+• Zone 3 (Medium Preparation): 7 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 6 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Ministers/Clergy (Zone 4)
+     O*NET Code: 21-2011
+     Domain: Social Services
+     Interest Code: SA
+     Match Score: 77.5/100
+
+  2. Marketing Managers (Zone 4)
+     O*NET Code: 11-2021
+     Domain: Sales & Marketing
+     Interest Code: EAS
+     Match Score: 75.9/100
+
+  3. Lawyers (Zone 5)
+     O*NET Code: 23-1011
+     Domain: Legal
+     Interest Code: EIS
+     Match Score: 74.4/100
+
+  4. Advertising Executives (Zone 4)
+     O*NET Code: 11-2011
+     Domain: Sales & Marketing
+     Interest Code: AES
+     Match Score: 74.3/100
+
+  5. Counselors (Zone 4)
+     O*NET Code: 21-1014
+     Domain: Social Services
+     Interest Code: SIA
+     Match Score: 72.4/100
+
+  6. Occupational Therapists (Zone 5)
+     O*NET Code: 29-1122
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 72.1/100
+
+  7. Writers (Zone 4)
+     O*NET Code: 27-3043
+     Domain: Media & Communications
+     Interest Code: AIS
+     Match Score: 71.9/100
+
+  8. Psychologists (Zone 5)
+     O*NET Code: 19-3039
+     Domain: Healthcare & Life Sciences
+     Interest Code: IAS
+     Match Score: 71.4/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 5 matching careers
+  • Arts & Entertainment: 4 matching careers
+  • Social Services: 3 matching careers
+  • Sales & Marketing: 3 matching careers
+  • Arts & Design: 3 matching careers
+
+------------------------------------------------------------
+
+🎯 SABYASACHI MOHANTY - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: ISC
+Primary Interest: Investigative
+Interest Pattern: 5H-1M
+High Interest Areas: Realistic, Investigative, Social, Enterprising, Conventional
+Moderate Interest Areas: Artistic
+Average O*NET Match Score: 70.3/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 1
+• Good Matches: 24
+• Fair Matches: 5
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 0 careers
+• Zone 3 (Medium Preparation): 6 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 9 careers
+
+🌟 EXCELLENT MATCHES (80-100 Score):
+  1. Veterinarians (Zone 5)
+     O*NET Code: 29-1131
+     Domain: Healthcare & Life Sciences
+     Interest Code: IRS
+     Match Score: 83.0/100
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Physical Therapists (Zone 5)
+     O*NET Code: 29-1123
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 77.6/100
+
+  2. Nurses (Registered) (Zone 4)
+     O*NET Code: 29-1141
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIR
+     Match Score: 77.5/100
+
+  3. Pharmacists (Zone 4)
+     O*NET Code: 29-1051
+     Domain: Healthcare & Life Sciences
+     Interest Code: ICS
+     Match Score: 76.6/100
+
+  4. Physicians (Zone 5)
+     O*NET Code: 29-1069
+     Domain: Healthcare & Life Sciences
+     Interest Code: ISA
+     Match Score: 76.1/100
+
+  5. Environmental Scientists (Zone 4)
+     O*NET Code: 19-2041
+     Domain: Science & Research
+     Interest Code: IRC
+     Match Score: 75.8/100
+
+  6. Athletic Trainers (Zone 4)
+     O*NET Code: 29-9091
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 75.3/100
+
+  7. Dental Hygienists (Zone 3)
+     O*NET Code: 29-2021
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 74.6/100
+
+  8. Medical Scientists (Zone 5)
+     O*NET Code: 19-1042
+     Domain: Healthcare & Life Sciences
+     Interest Code: IR
+     Match Score: 74.1/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 13 matching careers
+  • Information Technology: 4 matching careers
+  • Science & Research: 2 matching careers
+  • Law Enforcement & Security: 2 matching careers
+  • Social Services: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 AMBARISH CHATTERJEE - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: ISC
+Primary Interest: Investigative
+Interest Pattern: 5H-1M
+High Interest Areas: Realistic, Investigative, Social, Enterprising, Conventional
+Moderate Interest Areas: Artistic
+Average O*NET Match Score: 68.7/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 26
+• Fair Matches: 4
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 0 careers
+• Zone 3 (Medium Preparation): 8 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 8 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Veterinarians (Zone 5)
+     O*NET Code: 29-1131
+     Domain: Healthcare & Life Sciences
+     Interest Code: IRS
+     Match Score: 75.5/100
+
+  2. Project Managers (Zone 4)
+     O*NET Code: 11-9199
+     Domain: Management
+     Interest Code: ESC
+     Match Score: 75.0/100
+
+  3. Pharmacists (Zone 4)
+     O*NET Code: 29-1051
+     Domain: Healthcare & Life Sciences
+     Interest Code: ICS
+     Match Score: 74.1/100
+
+  4. Nurses (Registered) (Zone 4)
+     O*NET Code: 29-1141
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIR
+     Match Score: 73.3/100
+
+  5. Physicians (Zone 5)
+     O*NET Code: 29-1069
+     Domain: Healthcare & Life Sciences
+     Interest Code: ISA
+     Match Score: 71.8/100
+
+  6. Chief Executives (Zone 5)
+     O*NET Code: 11-1011
+     Domain: Management
+     Interest Code: EC
+     Match Score: 70.9/100
+
+  7. Construction Managers (Zone 4)
+     O*NET Code: 11-9021
+     Domain: Construction & Building
+     Interest Code: ERC
+     Match Score: 70.7/100
+
+  8. Market Research Analysts (Zone 4)
+     O*NET Code: 13-1161
+     Domain: Sales & Marketing
+     Interest Code: IEC
+     Match Score: 70.2/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 10 matching careers
+  • Finance: 5 matching careers
+  • Sales & Marketing: 4 matching careers
+  • Management: 2 matching careers
+  • Information Technology: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 DEBAJYOTI BANERJEE - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: SAI
+Primary Interest: Social
+Interest Pattern: 5H-1M
+High Interest Areas: Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: Realistic
+Average O*NET Match Score: 67.2/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 1
+• Good Matches: 17
+• Fair Matches: 12
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 2 careers
+• Zone 3 (Medium Preparation): 7 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 6 careers
+
+🌟 EXCELLENT MATCHES (80-100 Score):
+  1. Ministers/Clergy (Zone 4)
+     O*NET Code: 21-2011
+     Domain: Social Services
+     Interest Code: SA
+     Match Score: 80.2/100
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Occupational Therapists (Zone 5)
+     O*NET Code: 29-1122
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 76.3/100
+
+  2. Counselors (Zone 4)
+     O*NET Code: 21-1014
+     Domain: Social Services
+     Interest Code: SIA
+     Match Score: 73.6/100
+
+  3. Psychologists (Zone 5)
+     O*NET Code: 19-3039
+     Domain: Healthcare & Life Sciences
+     Interest Code: IAS
+     Match Score: 72.5/100
+
+  4. Teachers (Elementary) (Zone 4)
+     O*NET Code: 25-2021
+     Domain: Education
+     Interest Code: SAC
+     Match Score: 72.3/100
+
+  5. Speech Therapists (Zone 5)
+     O*NET Code: 29-1127
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 71.9/100
+
+  6. Marketing Managers (Zone 4)
+     O*NET Code: 11-2021
+     Domain: Sales & Marketing
+     Interest Code: EAS
+     Match Score: 71.7/100
+
+  7. Interior Designers (Zone 3)
+     O*NET Code: 27-1025
+     Domain: Architecture & Design
+     Interest Code: AES
+     Match Score: 70.0/100
+
+  8. Actors (Zone 3)
+     O*NET Code: 27-2011
+     Domain: Arts & Entertainment
+     Interest Code: AES
+     Match Score: 69.7/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 8 matching careers
+  • Arts & Entertainment: 5 matching careers
+  • Social Services: 3 matching careers
+  • Sales & Marketing: 3 matching careers
+  • Education: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 PRIYANSHU KUMAR TECH - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: IEC
+Primary Interest: Investigative
+Interest Pattern: 3H-3M
+High Interest Areas: Investigative, Enterprising, Conventional
+Moderate Interest Areas: Realistic, Artistic, Social
+Average O*NET Match Score: 73.0/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 3
+• Good Matches: 23
+• Fair Matches: 4
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 0 careers
+• Zone 3 (Medium Preparation): 6 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 8 careers
+
+🌟 EXCELLENT MATCHES (80-100 Score):
+  1. Market Research Analysts (Zone 4)
+     O*NET Code: 13-1161
+     Domain: Sales & Marketing
+     Interest Code: IEC
+     Match Score: 84.2/100
+
+  2. Cybersecurity Specialists (Zone 4)
+     O*NET Code: 15-1122
+     Domain: Information Technology
+     Interest Code: IRC
+     Match Score: 82.8/100
+
+  3. Engineers (Civil) (Zone 4)
+     O*NET Code: 17-2051
+     Domain: Engineering
+     Interest Code: IRC
+     Match Score: 81.5/100
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Data Scientists (Zone 4)
+     O*NET Code: 15-2051
+     Domain: Information Technology
+     Interest Code: IRC
+     Match Score: 79.9/100
+
+  2. Software Developers (Zone 4)
+     O*NET Code: 15-1132
+     Domain: Information Technology
+     Interest Code: IRC
+     Match Score: 79.6/100
+
+  3. Medical Scientists (Zone 5)
+     O*NET Code: 19-1042
+     Domain: Healthcare & Life Sciences
+     Interest Code: IR
+     Match Score: 78.8/100
+
+  4. Budget Analysts (Zone 4)
+     O*NET Code: 13-2031
+     Domain: Finance
+     Interest Code: CIE
+     Match Score: 77.6/100
+
+  5. Environmental Scientists (Zone 4)
+     O*NET Code: 19-2041
+     Domain: Science & Research
+     Interest Code: IRC
+     Match Score: 77.5/100
+
+  6. Lawyers (Zone 5)
+     O*NET Code: 23-1011
+     Domain: Legal
+     Interest Code: EIS
+     Match Score: 77.2/100
+
+  7. Financial Managers (Zone 4)
+     O*NET Code: 11-3031
+     Domain: Finance
+     Interest Code: ECI
+     Match Score: 76.6/100
+
+  8. Project Managers (Zone 4)
+     O*NET Code: 11-9199
+     Domain: Management
+     Interest Code: ESC
+     Match Score: 76.1/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 7 matching careers
+  • Sales & Marketing: 5 matching careers
+  • Information Technology: 5 matching careers
+  • Finance: 5 matching careers
+  • Science & Research: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 HARSH JAIN - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: SER
+Primary Interest: Social
+Interest Pattern: 6H-0M
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average O*NET Match Score: 63.4/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 10
+• Fair Matches: 20
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 1 careers
+• Zone 3 (Medium Preparation): 10 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 8 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Athletic Trainers (Zone 4)
+     O*NET Code: 29-9091
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 73.3/100
+
+  2. Police Officers (Zone 3)
+     O*NET Code: 33-3051
+     Domain: Law Enforcement & Security
+     Interest Code: RSE
+     Match Score: 72.9/100
+
+  3. Firefighters (Zone 3)
+     O*NET Code: 33-2011
+     Domain: Law Enforcement & Security
+     Interest Code: RSE
+     Match Score: 71.6/100
+
+  4. Physical Therapists (Zone 5)
+     O*NET Code: 29-1123
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 70.1/100
+
+  5. Construction Managers (Zone 4)
+     O*NET Code: 11-9021
+     Domain: Construction & Building
+     Interest Code: ERC
+     Match Score: 69.0/100
+
+  6. Nurses (Registered) (Zone 4)
+     O*NET Code: 29-1141
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIR
+     Match Score: 68.6/100
+
+  7. Restaurant Managers (Zone 3)
+     O*NET Code: 11-9051
+     Domain: Recreation & Hospitality
+     Interest Code: ERS
+     Match Score: 68.1/100
+
+  8. Veterinarians (Zone 5)
+     O*NET Code: 29-1131
+     Domain: Healthcare & Life Sciences
+     Interest Code: IRS
+     Match Score: 68.0/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 10 matching careers
+  • Sales & Marketing: 5 matching careers
+  • Social Services: 3 matching careers
+  • Law Enforcement & Security: 2 matching careers
+  • Construction & Building: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 NAVYA DHIMAN - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: ASR
+Primary Interest: Artistic
+Interest Pattern: 5H-1M
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising
+Moderate Interest Areas: Conventional
+Average O*NET Match Score: 61.6/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 7
+• Fair Matches: 23
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 2 careers
+• Zone 3 (Medium Preparation): 8 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 7 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Dancers (Zone 2)
+     O*NET Code: 27-2031
+     Domain: Arts & Entertainment
+     Interest Code: AS
+     Match Score: 74.3/100
+
+  2. Actors (Zone 3)
+     O*NET Code: 27-2011
+     Domain: Arts & Entertainment
+     Interest Code: AES
+     Match Score: 70.9/100
+
+  3. Musicians (Zone 3)
+     O*NET Code: 27-2042
+     Domain: Arts & Entertainment
+     Interest Code: AS
+     Match Score: 68.1/100
+
+  4. Recreation Workers (Zone 2)
+     O*NET Code: 39-9032
+     Domain: Recreation & Hospitality
+     Interest Code: SE
+     Match Score: 66.6/100
+
+  5. Film Directors (Zone 4)
+     O*NET Code: 27-2012
+     Domain: Arts & Entertainment
+     Interest Code: AE
+     Match Score: 65.9/100
+
+  6. Occupational Therapists (Zone 5)
+     O*NET Code: 29-1122
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 65.5/100
+
+  7. Interior Designers (Zone 3)
+     O*NET Code: 27-1025
+     Domain: Architecture & Design
+     Interest Code: AES
+     Match Score: 65.3/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 8 matching careers
+  • Arts & Entertainment: 5 matching careers
+  • Sales & Marketing: 3 matching careers
+  • Arts & Design: 3 matching careers
+  • Recreation & Hospitality: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 BRINDA - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: SRA
+Primary Interest: Social
+Interest Pattern: 6H-0M
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average O*NET Match Score: 58.6/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 4
+• Fair Matches: 26
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 3 careers
+• Zone 3 (Medium Preparation): 9 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 6 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Recreation Workers (Zone 2)
+     O*NET Code: 39-9032
+     Domain: Recreation & Hospitality
+     Interest Code: SE
+     Match Score: 70.5/100
+
+  2. Dancers (Zone 2)
+     O*NET Code: 27-2031
+     Domain: Arts & Entertainment
+     Interest Code: AS
+     Match Score: 70.3/100
+
+  3. Firefighters (Zone 3)
+     O*NET Code: 33-2011
+     Domain: Law Enforcement & Security
+     Interest Code: RSE
+     Match Score: 67.1/100
+
+  4. Athletic Trainers (Zone 4)
+     O*NET Code: 29-9091
+     Domain: Healthcare & Life Sciences
+     Interest Code: SRI
+     Match Score: 65.2/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 10 matching careers
+  • Arts & Entertainment: 5 matching careers
+  • Social Services: 3 matching careers
+  • Sales & Marketing: 3 matching careers
+  • Recreation & Hospitality: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 CHANDRAHAS - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: SEI
+Primary Interest: Social
+Interest Pattern: 5H-1M
+High Interest Areas: Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: Realistic
+Average O*NET Match Score: 68.3/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 22
+• Fair Matches: 8
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 1 careers
+• Zone 3 (Medium Preparation): 6 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 8 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Ministers/Clergy (Zone 4)
+     O*NET Code: 21-2011
+     Domain: Social Services
+     Interest Code: SA
+     Match Score: 76.2/100
+
+  2. Lawyers (Zone 5)
+     O*NET Code: 23-1011
+     Domain: Legal
+     Interest Code: EIS
+     Match Score: 76.0/100
+
+  3. Marketing Managers (Zone 4)
+     O*NET Code: 11-2021
+     Domain: Sales & Marketing
+     Interest Code: EAS
+     Match Score: 74.7/100
+
+  4. Advertising Executives (Zone 4)
+     O*NET Code: 11-2011
+     Domain: Sales & Marketing
+     Interest Code: AES
+     Match Score: 72.7/100
+
+  5. Occupational Therapists (Zone 5)
+     O*NET Code: 29-1122
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 72.0/100
+
+  6. Counselors (Zone 4)
+     O*NET Code: 21-1014
+     Domain: Social Services
+     Interest Code: SIA
+     Match Score: 71.8/100
+
+  7. Speech Therapists (Zone 5)
+     O*NET Code: 29-1127
+     Domain: Healthcare & Life Sciences
+     Interest Code: SIA
+     Match Score: 71.8/100
+
+  8. Sales Managers (Zone 4)
+     O*NET Code: 11-2022
+     Domain: Sales & Marketing
+     Interest Code: ESA
+     Match Score: 71.5/100
+
+🎯 TOP CAREER DOMAINS:
+  • Healthcare & Life Sciences: 8 matching careers
+  • Sales & Marketing: 6 matching careers
+  • Social Services: 3 matching careers
+  • Management: 2 matching careers
+  • Recreation & Hospitality: 2 matching careers
+
+------------------------------------------------------------
+
+🎯 SANJANA REDDY PAMURU - AUTHENTIC O*NET ANALYSIS
+============================================================
+Holland Code: ASC
+Primary Interest: Artistic
+Interest Pattern: 6H-0M
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average O*NET Match Score: 64.5/100
+
+MATCH QUALITY SUMMARY:
+• Excellent Matches: 0
+• Good Matches: 12
+• Fair Matches: 18
+
+EDUCATION/TRAINING LEVEL OPTIONS:
+• Zone 2 (Some College/Training): 4 careers
+• Zone 3 (Medium Preparation): 9 careers
+• Zone 4 (Bachelor's Degree): 10 careers
+• Zone 5 (Graduate Degree): 3 careers
+
+✅ GOOD MATCHES (65-79 Score):
+  1. Interior Designers (Zone 3)
+     O*NET Code: 27-1025
+     Domain: Architecture & Design
+     Interest Code: AES
+     Match Score: 72.8/100
+
+  2. Teachers (Elementary) (Zone 4)
+     O*NET Code: 25-2021
+     Domain: Education
+     Interest Code: SAC
+     Match Score: 72.6/100
+
+  3. UX/UI Designers (Zone 4)
+     O*NET Code: 15-1299
+     Domain: Information Technology
+     Interest Code: AIC
+     Match Score: 69.6/100
+
+  4. Graphic Designers (Zone 3)
+     O*NET Code: 27-1024
+     Domain: Arts & Design
+     Interest Code: ARE
+     Match Score: 68.8/100
+
+  5. Musicians (Zone 3)
+     O*NET Code: 27-2042
+     Domain: Arts & Entertainment
+     Interest Code: AS
+     Match Score: 68.0/100
+
+  6. Ministers/Clergy (Zone 4)
+     O*NET Code: 21-2011
+     Domain: Social Services
+     Interest Code: SA
+     Match Score: 67.2/100
+
+  7. Photographers (Zone 3)
+     O*NET Code: 27-4021
+     Domain: Arts & Entertainment
+     Interest Code: ARE
+     Match Score: 67.1/100
+
+  8. Librarians (Zone 4)
+     O*NET Code: 25-4021
+     Domain: Education
+     Interest Code: SAI
+     Match Score: 66.9/100
+
+🎯 TOP CAREER DOMAINS:
+  • Arts & Entertainment: 5 matching careers
+  • Sales & Marketing: 4 matching careers
+  • Arts & Design: 3 matching careers
+  • Social Services: 3 matching careers
+  • Healthcare & Life Sciences: 3 matching careers
+
+------------------------------------------------------------

@@ -1,0 +1,228 @@
+================================================================================
+O*NET INTEREST PROFILER CAREER ANALYSIS REPORT
+================================================================================
+Generated: October 21, 2025 at 02:14 PM
+
+METHODOLOGY
+--------------------------------------------------
+• Based on O*NET Interest Profiler official methodology
+• Uses correlation coefficient for career matching
+• Interest levels: High (23-36), Moderate (15-22), Low (12-14), Very Low (0-11)
+• Match categories: Excellent (80+), Good (65-79), Fair (50-64), Poor (<50)
+
+EXECUTIVE SUMMARY
+--------------------------------------------------
+• Participants Analyzed: 10
+• Careers in Database: 380
+• Career Domains: 20
+• Total Matches Calculated: 3800
+
+INDIVIDUAL O*NET INTEREST PROFILES
+--------------------------------------------------
+
+🎯 VANDANA
+------------------------------
+Holland Code: SIE
+Primary Interest: Social
+Interest Pattern: 4H-2M
+Interest Scores: R:44.4 | I:94.4 | A:91.7 | S:97.2 | E:94.4 | C:58.3
+High Interest Areas: Investigative, Artistic, Social, Enterprising
+Moderate Interest Areas: Realistic, Conventional
+Average Match Score: 64.1
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Business Analyst (IT & ITES) - 67.9
+    2. Technical Writer (IT & ITES) - 66.5
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. University and College Teacher, Information Technology (Education & Training) - 64.2
+    2. University and College Teacher, Law (Education & Training) - 64.2
+    3. Psychologist (Healthcare & Life Sciences) - 64.2
+
+
+🎯 SABYASACHI MOHANTY
+------------------------------
+Holland Code: ISC
+Primary Interest: Investigative
+Interest Pattern: 5H-1M
+Interest Scores: R:69.4 | I:88.9 | A:52.8 | S:83.3 | E:63.9 | C:77.8
+High Interest Areas: Realistic, Investigative, Social, Enterprising, Conventional
+Moderate Interest Areas: Artistic
+Average Match Score: 66.1
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Group 2 Officers in Various Departments (Public Administration ) - 70.9
+    2. Senior Assistants in Various Departments (Public Administration ) - 70.9
+    3. Medical Imaging Technician (Healthcare & Life Sciences) - 70.0
+    4. Public Policy Analyst (Social Sciences & Human Services) - 68.1
+    5. Physician (Healthcare & Life Sciences) - 67.1
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Sports Psychologist (Fitness & Lesiure) - 64.4
+    2. Associate-Medical Transcription (IT & ITES) - 64.3
+    3. Nutritionist (Healthcare & Life Sciences) - 63.7
+
+
+🎯 AMBARISH CHATTERJEE
+------------------------------
+Holland Code: ISC
+Primary Interest: Investigative
+Interest Pattern: 5H-1M
+Interest Scores: R:69.4 | I:94.4 | A:52.8 | S:91.7 | E:86.1 | C:88.9
+High Interest Areas: Realistic, Investigative, Social, Enterprising, Conventional
+Moderate Interest Areas: Artistic
+Average Match Score: 64.1
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Group 2 Officers in Various Departments (Public Administration ) - 67.5
+    2. Senior Assistants in Various Departments (Public Administration ) - 67.5
+    3. Business Analyst (IT & ITES) - 65.7
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Medical Imaging Technician (Healthcare & Life Sciences) - 64.8
+    2. Ayurvedic Physician (Healthcare & Life Sciences) - 64.0
+    3. Homoeopathic Physician (Healthcare & Life Sciences) - 64.0
+
+
+🎯 DEBAJYOTI BANERJEE
+------------------------------
+Holland Code: SAI
+Primary Interest: Social
+Interest Pattern: 5H-1M
+Interest Scores: R:61.1 | I:83.3 | A:91.7 | S:100.0 | E:80.6 | C:66.7
+High Interest Areas: Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: Realistic
+Average Match Score: 66.3
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Technical Writer (IT & ITES) - 69.5
+    2. Teacher for Differently-Abled (Mental) (Education & Training) - 69.3
+    3. Teacher for Differently-Abled (Physical) (Education & Training) - 69.3
+    4. Speech Theropist (Healthcare & Life Sciences) - 67.5
+    5. University and College Teacher, Fine Arts (Education & Training) - 67.5
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Teacher Pre-Primary (Education & Training) - 64.9
+    2. University and College Teacher, Education (Education & Training) - 64.7
+    3. Primary School Teacher (Education & Training) - 64.7
+
+
+🎯 PRIYANSHU KUMAR TECH
+------------------------------
+Holland Code: IEC
+Primary Interest: Investigative
+Interest Pattern: 3H-3M
+Interest Scores: R:44.4 | I:94.4 | A:44.4 | S:55.6 | E:77.8 | C:72.2
+High Interest Areas: Investigative, Enterprising, Conventional
+Moderate Interest Areas: Realistic, Artistic, Social
+Average Match Score: 66.4
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Pharmacists (Healthcare & Life Sciences) - 73.4
+    2. Commericial Tax Officer (Public Administration ) - 73.4
+    3. QA Engineer (Software Testing Engineer) (IT & ITES) - 72.5
+    4. Digital Marketer (IT & ITES) - 67.1
+    5. Programmer Genreal (IT & ITES) - 67.1
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Ayurvedic Physician (Healthcare & Life Sciences) - 64.4
+    2. Homoeopathic Physician (Healthcare & Life Sciences) - 64.4
+    3. Psychiatrist (Healthcare & Life Sciences) - 64.4
+
+
+🎯 HARSH JAIN
+------------------------------
+Holland Code: SER
+Primary Interest: Social
+Interest Pattern: 6H-0M
+Interest Scores: R:77.8 | I:77.8 | A:72.2 | S:80.6 | E:80.6 | C:72.2
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average Match Score: 64.3
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Business Analyst (IT & ITES) - 67.0
+    2. Agriculture Extension Supervisor (Agriculture and related) - 65.7
+    3. Insurance Officer (Banking & Finance) - 65.7
+    4. Skill & LIvelihood Trainer (Education & Training) - 65.7
+    5. Sales Engineer (IT & ITES) - 65.7
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Officer - Infantry (Armed Forces and Central police) - 62.7
+    2. Officer - Artillery (Armed Forces and Central police) - 62.7
+    3. Officer - Armoured Corps (Armed Forces and Central police) - 62.7
+
+
+🎯 NAVYA DHIMAN
+------------------------------
+Holland Code: ASR
+Primary Interest: Artistic
+Interest Pattern: 5H-1M
+Interest Scores: R:75.0 | I:72.2 | A:77.8 | S:77.8 | E:72.2 | C:44.4
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising
+Moderate Interest Areas: Conventional
+Average Match Score: 58.5
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. UI Designer (IT & ITES) - 62.7
+    2. Technical Writer (IT & ITES) - 60.7
+    3. Art & Crafts  Teacher (Education & Training) - 60.2
+
+
+🎯 BRINDA
+------------------------------
+Holland Code: SRA
+Primary Interest: Social
+Interest Pattern: 6H-0M
+Interest Scores: R:86.1 | I:72.2 | A:83.3 | S:91.7 | E:77.8 | C:63.9
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average Match Score: 63.1
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Athletic Coach (Fitness & Lesiure) - 66.2
+    2. Fitness Trainer/ Fitness Instructor (Fitness & Lesiure) - 66.2
+    3. Physical Training Instructor/ Physical Education Teacher (Fitness & Lesiure) - 66.2
+    4. Adventure Guide (Retail, Tourism and Hospitality) - 66.2
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Art & Crafts  Teacher (Education & Training) - 63.8
+    2. Teacher for Differently-Abled (Mental) (Education & Training) - 63.8
+    3. Teacher for Differently-Abled (Physical) (Education & Training) - 63.8
+
+
+🎯 CHANDRAHAS
+------------------------------
+Holland Code: SEI
+Primary Interest: Social
+Interest Pattern: 5H-1M
+Interest Scores: R:55.6 | I:91.7 | A:75.0 | S:97.2 | E:94.4 | C:63.9
+High Interest Areas: Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: Realistic
+Average Match Score: 67.8
+
+✅ GOOD MATCHES (65-79 Score):
+    1. Business Analyst (IT & ITES) - 72.9
+    2. Insurance Officer (Banking & Finance) - 68.7
+    3. Sales Engineer (IT & ITES) - 68.7
+    4. Civil Lawyer (Law & Order) - 68.7
+    5. Criminal Lawyer (Law & Order) - 68.7
+
+
+🎯 SANJANA REDDY PAMURU
+------------------------------
+Holland Code: ASC
+Primary Interest: Artistic
+Interest Pattern: 6H-0M
+Interest Scores: R:63.9 | I:63.9 | A:83.3 | S:77.8 | E:66.7 | C:77.8
+High Interest Areas: Realistic, Investigative, Artistic, Social, Enterprising, Conventional
+Moderate Interest Areas: None
+Average Match Score: 61.4
+
+✅ GOOD MATCHES (65-79 Score):
+    1. News Reader (Media & Entertainment) - 67.4
+
+🔶 FAIR MATCHES (50-64 Score):
+    1. Website Copywriter (IT & ITES) - 64.5
+    2. Ad Copywriter (Media & Entertainment) - 64.5
+    3. Author (Arts, Design, Creative) - 63.1

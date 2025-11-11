@@ -1,0 +1,381 @@
+Domain,Career,R,I,A,S,E,C
+Agriculture and related,Agricultural Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+Agriculture and related,Food Technologist,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Civil Engineer - Irrigation,1.5,2.0,0.5,0.5,1.0,1.5
+Agriculture and related,Chemical Engineer - Fertilizers,1.5,2.0,0.5,0.5,1.0,1.5
+Agriculture and related,Agriculture Engineering Technician,1.5,2.0,0.5,0.5,1.0,1.5
+Agriculture and related,Diary Maintanance Mechanic,2.0,1.0,0.5,0.5,0.5,1.0
+Agriculture and related,Solar Pump Technician,2.0,1.5,0.5,0.5,0.5,1.5
+Agriculture and related,Micro Irrigation Technician,2.0,1.5,0.5,0.5,0.5,1.5
+Agriculture and related,Agronomy and Forestry Technician,2.0,1.5,0.5,0.5,0.5,1.5
+Agriculture and related,Artificial-breeding Technician,2.0,1.5,0.5,0.5,0.5,1.5
+Agriculture and related,Agriculture Extension Supervisor,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Agriculture Extension Service Provider,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Agriculture Officer - Banking,1.5,1.0,0.5,1.5,1.5,1.5
+Agriculture and related,Poultry Scientist,1.0,2.0,0.5,0.5,0.5,1.5
+Agriculture and related,Agronomist,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Diary Scientist,1.0,2.0,0.5,0.5,0.5,1.5
+Agriculture and related,Pisciculturist ,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Soil Scientist,1.0,2.0,0.5,0.5,0.5,1.5
+Agriculture and related,Cultivator,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Diary Farmer,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Poultry Farmer,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Aquaculturist,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Sericulturist,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Agricultural Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Fisheries Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Forest Guard,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Farm Supervisor,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Farm Manager,0.0,1.0,0.5,1.5,2.0,1.5
+Agriculture and related,Veterinarian,1.0,1.0,1.0,1.0,1.0,1.0
+Agriculture and related,Veterinary Assistant,0.5,0.5,0.5,1.5,1.0,1.5
+Agriculture and related,Soil Laboratory Assistant,0.5,0.5,0.5,1.5,1.0,1.5
+Armed Forces and Central police,Flying Officier (Fighter Pilot/ Helicoptor and Transport Pilot),1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Officer (Ground Duty - Administrative) ,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer (Ground Duty - Technical),1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Airmen(Group X - Technical),1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Naval Officer (Engineering),1.5,2.0,0.5,0.5,1.0,1.5
+Armed Forces and Central police,Naval Officer (Aviation),1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Naval Officer (Logistics),1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Naval Officer (Hydrographics),1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Sailor,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Officer - Infantry,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer - Artillery,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer - Armoured Corps,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer - Technical,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer - Military Police,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Officer - Intelligence,1.5,1.0,0.5,1.5,1.5,1.5
+Armed Forces and Central police,Havildar,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Soldier,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Soldier - Technical,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Constable,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Constable,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Constable,1.0,1.0,1.0,1.0,1.0,1.0
+Armed Forces and Central police,Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+"Arts, Design, Creative",Architect,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Fashion Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Footwear Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Textile Designers,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Furniture Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Gemologist,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Jewellery Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Graphics Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Interior Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Illustrator,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Film Animator,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Photographer,1.5,1.0,2.0,1.0,1.0,0.5
+"Arts, Design, Creative",Product Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",User Experience Designer,1.0,1.0,2.0,1.0,1.5,0.5
+"Arts, Design, Creative",Painter,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Author,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative","Scriptwriter, Screenplay Writer",0.0,1.5,2.0,1.0,1.0,0.5
+"Arts, Design, Creative",Advertising Copywriter,0.0,1.5,2.0,1.0,1.0,0.5
+"Arts, Design, Creative",Videography,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Sculptor,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Singer - Classical Indian,1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Actor (Film & Stage),1.0,1.0,1.5,1.0,1.0,1.0
+"Arts, Design, Creative",Musical Instrument Maker,1.0,1.0,1.5,1.0,1.0,1.0
+Banking & Finance,Company Secretary,0.0,0.5,0.5,1.5,1.5,2.0
+Banking & Finance,Cost Accountant,0.0,1.5,0.0,1.0,1.5,2.0
+Banking & Finance,Accountant,0.0,1.5,0.0,1.0,1.5,2.0
+Banking & Finance,Financial Planners,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Actuary,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Tax consultant,0.0,1.5,0.5,1.5,2.0,1.5
+Banking & Finance,Auditor,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Budget Analyst,0.0,2.0,0.5,1.0,1.5,2.0
+Banking & Finance,Cashier/Teller,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Bank Clerk,0.0,0.5,0.0,1.5,1.0,2.0
+Banking & Finance,Bank Probationary Officer,1.5,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Insurance Officer,1.5,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Insurance Agent,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Bank Manager,0.0,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Insurance Manager,0.0,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,DSA/Sales Executives,0.0,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Stock Broker,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Phone Banking Officer,1.5,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Relationship Manager,0.0,1.0,0.5,1.5,2.0,2.0
+Banking & Finance,Economist,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,Statistician,1.0,1.0,1.0,1.0,1.5,1.5
+Banking & Finance,IT Officer - Banking,1.5,1.0,0.5,1.5,2.0,2.0
+Building & Construction,Electrician (Self Employed),1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Carpenter ,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Plumber,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Crane Operator,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Interior Designer,1.0,1.0,2.0,1.0,1.5,0.5
+Building & Construction,Architect,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Supervisor/Foreman - Building Construction,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Surveyor,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Real Estate Broker,1.0,1.0,1.0,1.0,1.0,1.0
+Building & Construction,Proprietor - Construction,1.0,1.0,1.0,1.0,1.0,1.0
+Clothing and Accessories,Textile Machine Operators,1.0,1.0,1.0,1.0,1.0,1.0
+Clothing and Accessories,Designer & Master Cutter,1.0,1.0,2.0,1.0,1.5,0.5
+Clothing and Accessories,Merchandiser,1.0,1.0,1.0,1.0,1.0,1.0
+Clothing and Accessories,Textile Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+Clothing and Accessories,"Designer, Leather Articles",1.0,1.0,2.0,1.0,1.5,0.5
+Clothing and Accessories,"Supervisor & Foreman, Leather Goods Making",1.0,1.0,1.0,1.0,1.0,1.0
+Clothing and Accessories,"Machine Operator, Leather Industries",1.0,1.0,1.0,1.0,1.0,1.0
+Education & Training,"University and College Teacher, Arts Subjects",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Commerce Subjects",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Education",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Engineering",1.5,2.0,0.5,1.0,1.0,1.5
+Education & Training,"University and College Teacher, Fine Arts",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Information Technology",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Law",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Management Subjects",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Medicine and Surgery",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Science Subjects",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"University and College Teacher, Veterinary Science",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Art & Crafts  Teacher,0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"Senior Secondary and Secondary School Teacher, Arts",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"Senior Secondary and Secondary School Teacher, Commerce",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,"Senior Secondary and Secondary School Teacher, Science",0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Primary School Teacher,0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Teacher Pre-Primary,0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Teacher for Differently-Abled (Mental),0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Teacher for Differently-Abled (Physical),0.5,1.5,1.5,2.0,1.0,1.0
+Education & Training,Headmaster,1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,"Principal, College",1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,Counsellor,1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,Librarian,1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,ITI Lecturer,1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,Polytechnic Lecturer,1.0,1.0,1.0,1.5,1.0,1.0
+Education & Training,Skill & LIvelihood Trainer,0.5,1.0,1.0,2.0,1.5,1.0
+Education & Training,Corporate Trainer,0.5,1.0,1.0,2.0,1.5,1.0
+Education & Training,Mathematician,1.0,1.0,1.0,1.5,1.0,1.0
+"Hardware, Electronics",Draftsman,1.0,1.0,1.0,1.0,1.0,1.0
+"Hardware, Electronics",Electronics Fitter,1.0,1.0,1.0,1.0,1.0,1.0
+"Hardware, Electronics",Electronic Mechanic,2.0,1.0,0.5,0.5,0.5,1.0
+"Hardware, Electronics",LED Light Repair and Testring Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Hardware, Electronics",Solar Panel Installation Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Hardware, Electronics",Smartphone Repair Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Hardware, Electronics",Sales Executive,0.0,1.0,0.5,1.5,2.0,1.5
+"Hardware, Electronics",Customer Care Executive,0.0,1.0,0.5,1.5,2.0,1.5
+"Hardware, Electronics",Electro-Optical Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Optical Fiber Splicer/Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Hardware, Electronics",Electronic Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Electronic Hardware Design Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Electrical Design Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Embedded Software Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Network Management Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",LED Light Design Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",Solar PV System Installation Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Hardware, Electronics",CCTV Installation Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Hardware, Electronics",Handset Repair Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Industrial Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Mechanical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Aeronautical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Agricultural Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Aircraft Maintenance Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Chemical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Civil Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Communication Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Computer Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Biochemical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Bio Medical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Electrical & Electronics Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Electronics & Communication Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Electronics & Instrumentation Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Environmental Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Robotics Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Robotic Machine Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Sales Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Nuclear Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Material Scientist,1.5,2.0,0.5,0.5,0.5,1.5
+Engineering & Manufacturing,Mining & Merallurgical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Metallurgical Engineer,2.0,2.0,0.5,0.5,1.0,1.5
+Engineering & Manufacturing,Plastic Technologists,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Electrician,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Plumber,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Fitter,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Tool & Die Maker,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Aircraft Engine Mechanic,2.0,1.5,0.5,0.5,0.5,1.0
+Engineering & Manufacturing,Avionics Technician,2.0,2.0,0.5,0.5,0.5,1.5
+Engineering & Manufacturing,Air Compressor Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,CNC Operator - Grinding Machine Centre,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Draughtsman-Mechanical,2.0,1.5,0.5,0.5,0.5,1.0
+Engineering & Manufacturing,Power Plant Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Water Treatment Plant Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Sewage Treatment Plant Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,"Turbine Operator, Hydel",1.5,1.5,1.0,1.0,1.0,1.0
+Engineering & Manufacturing,Lathe Machine Operator,1.5,1.5,1.0,1.0,1.0,1.0
+Fitness & Lesiure,Athletic Coach,1.0,1.0,1.0,1.0,1.0,1.0
+Fitness & Lesiure,Fitness Trainer/ Fitness Instructor,0.5,1.0,1.0,2.0,1.5,1.0
+Fitness & Lesiure,Physical Training Instructor/ Physical Education Teacher,0.5,1.5,1.5,2.0,1.0,1.0
+Fitness & Lesiure,"Professional Sportsman/ Professional, Athelete",1.0,1.0,1.0,1.0,1.0,1.0
+Fitness & Lesiure,Sports Physiotherapist,1.0,1.5,1.0,2.0,0.5,1.0
+Fitness & Lesiure,Yoga Therapist,1.0,1.5,1.0,2.0,0.5,1.0
+Fitness & Lesiure,Sports Psychologist,1.0,1.0,1.0,1.0,1.0,1.0
+Healthcare & Life Sciences,Ayurvedic Physician,0.5,2.0,0.5,2.0,1.0,1.0
+Healthcare & Life Sciences,Physician,0.5,2.0,0.5,2.0,1.0,1.0
+Healthcare & Life Sciences,Surgeon,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Neurologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Dentist,1.5,2.0,1.0,2.0,1.0,1.0
+Healthcare & Life Sciences,Homoeopathic Physician,0.5,2.0,0.5,2.0,1.0,1.0
+Healthcare & Life Sciences,Veterinarian,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Physiotherapists,1.0,2.0,1.0,2.0,0.5,1.0
+Healthcare & Life Sciences,Psychiatrist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Psychologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Forensic Scientists,1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Microbiologist,1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Anesthesiologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Nutritionist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Pathologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Opthalomogists,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Pharmacists,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,ECG Technician,2.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Blood Bank Technician,2.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Medical Imaging Technician,2.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Dental Technician,2.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Nurse,1.0,1.5,0.5,2.0,0.5,1.5
+Healthcare & Life Sciences,Nursing Assistant,0.5,1.0,0.5,2.0,1.0,1.5
+Healthcare & Life Sciences,Bio-Medical Engineer,1.5,2.0,0.5,1.0,1.0,1.5
+Healthcare & Life Sciences,Ecologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Entomologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Forensic Science Technician,2.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Marine Biologist,1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Plant Physiologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,"Chemist, Organic",1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Environmental Scientist (Including Health),1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Zoologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Chemist,1.0,2.0,0.5,1.0,0.5,1.5
+Healthcare & Life Sciences,Acupuncturist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Dermatologist,1.0,1.5,1.0,1.5,1.0,1.0
+Healthcare & Life Sciences,Speech Theropist,1.0,1.5,1.0,1.5,1.0,1.0
+IT & ITES,Ethical Hacker,1.0,1.5,1.0,1.0,1.0,1.5
+IT & ITES,QA Engineer (Software Testing Engineer),1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,AI Engineer,1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,Software Architect,1.0,1.5,1.0,1.0,1.0,1.5
+IT & ITES,Network Engineer,1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,System Administrator,1.0,2.0,0.5,1.0,1.0,2.0
+IT & ITES,Digital Marketer,1.0,1.5,1.0,1.0,1.0,1.5
+IT & ITES,IT Project Manager,0.0,1.5,0.5,1.5,2.0,2.0
+IT & ITES,Technical Writer,0.0,2.0,2.0,1.0,1.0,1.0
+IT & ITES,Website Copywriter,0.0,2.0,2.0,1.0,1.0,1.0
+IT & ITES,Trainer,0.5,1.5,1.0,2.0,1.5,1.5
+IT & ITES,Sales Engineer,1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,Hardware Engineer,1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,IT Helpdesk Executive,0.0,1.5,0.5,1.5,2.0,2.0
+IT & ITES,Engineer-Technical Support,1.5,2.0,0.5,0.5,1.0,2.0
+IT & ITES,Cloud Computing Analyst,0.0,2.0,0.5,1.0,1.0,2.0
+IT & ITES,Web Designer,1.0,1.5,2.0,1.0,1.5,1.0
+IT & ITES,Web Developer,0.5,2.0,1.5,0.5,1.0,1.5
+IT & ITES,Mobile App Developer,0.5,2.0,1.5,0.5,1.0,1.5
+IT & ITES,Big Data Analyst,0.0,2.0,0.5,1.0,1.0,2.0
+IT & ITES,Programmer Genreal,0.5,2.0,1.0,0.5,1.0,2.0
+IT & ITES,Business Analyst,0.0,2.0,0.5,1.0,1.0,2.0
+IT & ITES,Associate-Medical Transcription,1.0,1.5,1.0,1.0,1.0,1.5
+IT & ITES,UI Designer,1.0,1.5,2.0,1.0,1.5,1.0
+Social Sciences & Human Services,Social Worker,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Marriage and Family Counsellor,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Public Policy Analyst,0.0,2.0,0.5,1.0,1.0,1.5
+Social Sciences & Human Services,Communications Officer ,1.5,1.0,0.5,1.5,1.5,1.5
+Social Sciences & Human Services,Archaeologist,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Sociologist,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Geographer,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Geologist,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Historian,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Palaeontologist,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Psychologist,1.0,1.0,1.0,1.0,1.0,1.0
+Social Sciences & Human Services,Hospital Counsellor,1.0,1.0,1.0,1.0,1.0,1.0
+Law & Order,Judge,0.0,2.0,0.5,1.5,2.0,2.0
+Law & Order,Civil Lawyer,0.0,2.0,1.0,1.5,2.0,1.5
+Law & Order,Criminal Lawyer,0.0,2.0,1.0,1.5,2.0,1.5
+Law & Order,Criminal Investigator,1.0,1.5,1.0,1.0,1.5,1.0
+Law & Order,Anthropologist,1.0,1.5,1.0,1.0,1.5,1.0
+Management & Marketing,HR Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,HR Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Marketing Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Market Research Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Marketing Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Public Relations Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Public Relations Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Labour Welfare Officier,1.0,1.0,1.0,1.5,1.5,1.0
+Management & Marketing,Health & Safety Officer,1.5,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Sales Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Counter sales Executives,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Sales Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Project Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,IT Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Brand Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Communications officer,1.5,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Social Media Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Executive - Event Management,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Armed Security Guard,1.0,1.0,1.0,1.5,1.5,1.0
+Management & Marketing,Security Supervisor,1.0,1.0,1.0,1.5,1.5,1.0
+Management & Marketing,Facilities/Operations Manager,0.0,1.0,0.5,2.0,2.0,1.5
+Management & Marketing,Receptionist/Front Office Executive,0.0,1.0,0.5,2.0,2.0,1.5
+Media & Entertainment,Anchor,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,News Reader,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Journalist,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Editor,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Radio Jockey,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,"Writer - Fiction, Creative",0.0,1.5,2.0,1.0,1.0,0.5
+Media & Entertainment,Ad Copywriter,0.0,1.5,2.0,1.0,1.0,0.5
+Media & Entertainment,Modeling,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Music Director,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Cartoonist,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Film Director,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Film Animator,1.0,1.0,1.0,1.0,1.0,1.0
+Media & Entertainment,Actor (Film & Stage),1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Indian Admin Service Officer,1.5,1.0,0.5,1.5,1.5,1.5
+Public Administration ,Indian Police Service Officer,1.5,1.0,0.5,1.5,1.5,1.5
+Public Administration ,Other All India Services,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Deputy Collector,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Municipal Commissioner,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Asisstant Supdt. of Police,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Assistant Prohibition and Excise Superintendent,0.5,0.5,0.5,1.5,1.0,1.5
+Public Administration ,Group 1 Officers in various departments,1.5,1.0,0.5,1.5,1.5,1.5
+Public Administration ,Commericial Tax Officer,1.5,1.0,0.5,1.5,1.5,1.5
+Public Administration ,Deputy Tehsildar,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Prohibition & Excise Sub Inspector,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Group 2 Officers in Various Departments,1.5,1.0,0.5,1.5,1.5,1.5
+Public Administration ,Senior Assistants in Various Departments,0.5,0.5,0.5,1.5,1.0,1.5
+Public Administration ,Panchayat Secretary,0.0,0.5,0.5,1.5,1.0,2.0
+Public Administration ,Group 4 Employees,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,SI,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Police Constable,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Engineer - Railways,1.5,2.0,0.5,0.5,1.0,1.5
+Public Administration ,Station Master-Railway,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Ticket Collector-Railway,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Railway Constable,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Assistant Executive Engineer - Various Departments,1.5,2.0,0.5,0.5,1.0,1.5
+Public Administration ,Deputy Surgeon,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Postal Assistant,0.5,0.5,0.5,1.5,1.0,1.5
+Public Administration ,Postman,1.0,1.0,1.0,1.0,1.0,1.0
+Public Administration ,Mail Guard,1.0,1.0,1.0,1.0,1.0,1.0
+"Retail, Tourism and Hospitality",Chef,1.5,0.5,1.5,1.0,1.0,0.5
+"Retail, Tourism and Hospitality",Hotel Manager,0.0,1.0,0.5,1.5,2.0,1.5
+"Retail, Tourism and Hospitality",Flight Attendants and Travel Stewards,1.0,1.0,1.0,1.0,1.0,1.0
+"Retail, Tourism and Hospitality",Food & Beverage Service Steward,1.0,1.0,1.0,1.0,1.0,1.0
+"Retail, Tourism and Hospitality",Housekeeping Supervisor,1.0,1.0,1.0,1.0,1.0,1.0
+"Retail, Tourism and Hospitality",Manager Lodging and Catering Services,0.0,1.0,0.5,1.5,2.0,1.5
+"Retail, Tourism and Hospitality",Tourist Guide,1.0,1.0,1.5,2.0,1.5,0.5
+"Retail, Tourism and Hospitality",Adventure Guide,1.0,1.0,1.5,2.0,1.5,0.5
+"Retail, Tourism and Hospitality",Travel Consultant,0.0,1.5,0.5,1.5,2.0,1.0
+"Retail, Tourism and Hospitality",Interpreters & Translators,1.0,1.0,1.0,1.0,1.0,1.0
+"Retail, Tourism and Hospitality",Medical Sales Representative,0.0,0.5,1.0,1.5,2.0,1.0
+Self Employment,Software consultants,0.0,1.5,0.5,1.5,2.0,1.0
+Self Employment,Beautician,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Mobile & Electronic  Service Sales and Repair,0.0,0.5,1.0,1.5,2.0,1.0
+Self Employment,Photo and Video Studio,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Electrician,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Offset Printing & Binding,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Taxi Owner,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Computer / Xerox Centre,1.0,1.0,1.0,1.0,1.0,1.0
+Self Employment,Rural Transport Service,1.0,1.0,1.0,1.0,1.0,1.0
+"Transportation, Logistics,","Engineer, Merchant Navy",1.5,2.0,0.5,0.5,1.0,1.5
+"Transportation, Logistics,",Naval Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Transportation, Logistics,","Officer, Merchant Navy",1.5,1.0,0.5,1.5,1.5,1.5
+"Transportation, Logistics,",warehouse Supervisor,1.0,1.0,1.0,1.0,1.0,1.0
+"Transportation, Logistics,",Automative service Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Transportation, Logistics,",Commercial Pilot,1.0,1.0,1.0,1.0,1.0,1.0
+"Transportation, Logistics,",Airline Cabin Crew,1.0,1.0,1.0,1.0,1.0,1.0
+"Transportation, Logistics,",Avionics Technician,2.0,1.5,0.5,0.5,0.5,1.5
+"Transportation, Logistics,",Aircraft Engine Mechanic,2.0,1.0,0.5,0.5,0.5,1.0
+"Transportation, Logistics,",Avionics Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Transportation, Logistics,",Aviation Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Transportation, Logistics,",Aerospace Engineer,1.5,2.0,0.5,0.5,1.0,1.5
+"Transportation, Logistics,",Commercial Vehicle Driver,1.0,1.0,1.0,1.0,1.0,1.0
+"Transportation, Logistics,",Air traffic controller,1.0,1.0,1.0,1.0,1.0,1.0

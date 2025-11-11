@@ -1,0 +1,1128 @@
+================================================================================
+COMPREHENSIVE RIASEC CAREER ANALYSIS REPORT
+================================================================================
+Generated: October 21, 2025 at 02:00 PM
+
+EXECUTIVE SUMMARY
+--------------------------------------------------
+• Participants Analyzed: 10
+• Careers in Database: 380
+• Career Domains: 20
+• Total Matches Calculated: 3800
+
+INDIVIDUAL RECOMMENDATIONS
+--------------------------------------------------
+
+🎯 VANDANA
+------------------------------
+Holland Code: SIE
+Dominant Type: Social
+RIASEC Profile: R:0.33 | I:1.83 | A:1.75 | S:1.92 | E:1.83 | C:0.75
+Average Match Score: 1.334
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Public Administration , Healthcare & Life Sciences, Fitness & Lesiure
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.861
+       Raw Product Score: 5.583
+
+    2. Technical Writer
+       Match Score: 1.833
+       Raw Product Score: 5.500
+
+
+  📁 Public Administration  Domain:
+    1. Group 2 Officers in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    2. Panchayat Secretary
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    3. Senior Assistants in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    4. Deputy Tehsildar
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    5. Prohibition & Excise Sub Inspector
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 Healthcare & Life Sciences Domain:
+    1. Pharmacists
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 IT & ITES Domain:
+    3. Engineer-Technical Support
+       Match Score: 1.333
+       Raw Product Score: 4.000
+
+    4. UI Designer
+       Match Score: 1.269
+       Raw Product Score: 5.708
+
+    5. Trainer
+       Match Score: 1.250
+       Raw Product Score: 5.625
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Psychologist
+       Match Score: 1.250
+       Raw Product Score: 5.625
+
+    3. Ayurvedic Physician
+       Match Score: 1.241
+       Raw Product Score: 5.583
+
+    4. Homoeopathic Physician
+       Match Score: 1.241
+       Raw Product Score: 5.583
+
+    5. Psychiatrist
+       Match Score: 1.241
+       Raw Product Score: 5.583
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Sports Physiotherapist
+       Match Score: 1.083
+       Raw Product Score: 4.875
+
+    3. Athletic Coach
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+    5. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+🎯 SABYASACHI MOHANTY
+------------------------------
+Holland Code: ISC
+Dominant Type: Investigative
+RIASEC Profile: R:1.08 | I:1.67 | A:0.58 | S:1.50 | E:0.92 | C:1.33
+Average Match Score: 1.191
+Total Careers Recommended: 20
+
+Top 4 Domains: Public Administration , Fitness & Lesiure, IT & ITES, Healthcare & Life Sciences
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 Public Administration  Domain:
+    1. Group 2 Officers in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    2. Senior Assistants in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.417
+       Raw Product Score: 4.250
+
+
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 Healthcare & Life Sciences Domain:
+    1. Blood Bank Technician
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 Public Administration  Domain:
+    3. Commericial Tax Officer
+       Match Score: 1.306
+       Raw Product Score: 3.917
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Pharmacists
+       Match Score: 1.306
+       Raw Product Score: 3.917
+
+
+  📁 Public Administration  Domain:
+    4. Group 4 Employees
+       Match Score: 1.306
+       Raw Product Score: 3.917
+
+
+  📁 Healthcare & Life Sciences Domain:
+    3. Nursing Assistant
+       Match Score: 1.306
+       Raw Product Score: 3.917
+
+
+  📁 Public Administration  Domain:
+    5. Deputy Tehsildar
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 IT & ITES Domain:
+    2. Technical Writer
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 Healthcare & Life Sciences Domain:
+    4. Surgeon
+       Match Score: 1.236
+       Raw Product Score: 3.708
+
+
+  📁 IT & ITES Domain:
+    3. Engineer-Technical Support
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+
+  📁 Healthcare & Life Sciences Domain:
+    5. Medical Imaging Technician
+       Match Score: 1.037
+       Raw Product Score: 4.667
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Sports Physiotherapist
+       Match Score: 0.991
+       Raw Product Score: 4.458
+
+
+  📁 IT & ITES Domain:
+    4. Associate-Medical Transcription
+       Match Score: 0.981
+       Raw Product Score: 4.417
+
+    5. Trainer
+       Match Score: 0.972
+       Raw Product Score: 4.375
+
+
+  📁 Fitness & Lesiure Domain:
+    3. Athletic Coach
+       Match Score: 0.843
+       Raw Product Score: 3.792
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 0.843
+       Raw Product Score: 3.792
+
+    5. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 0.843
+       Raw Product Score: 3.792
+
+🎯 AMBARISH CHATTERJEE
+------------------------------
+Holland Code: ISC
+Dominant Type: Investigative
+RIASEC Profile: R:1.08 | I:1.83 | A:0.58 | S:1.75 | E:1.58 | C:1.67
+Average Match Score: 1.419
+Total Careers Recommended: 20
+
+Top 4 Domains: Public Administration , IT & ITES, Healthcare & Life Sciences, Fitness & Lesiure
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 Public Administration  Domain:
+    1. Group 2 Officers in Various Departments
+       Match Score: 1.750
+       Raw Product Score: 5.250
+
+    2. Senior Assistants in Various Departments
+       Match Score: 1.750
+       Raw Product Score: 5.250
+
+
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.722
+       Raw Product Score: 5.167
+
+
+  📁 Healthcare & Life Sciences Domain:
+    1. Pharmacists
+       Match Score: 1.694
+       Raw Product Score: 5.083
+
+
+  📁 Public Administration  Domain:
+    3. Commericial Tax Officer
+       Match Score: 1.694
+       Raw Product Score: 5.083
+
+    4. Prohibition & Excise Sub Inspector
+       Match Score: 1.667
+       Raw Product Score: 5.000
+
+    5. Deputy Tehsildar
+       Match Score: 1.667
+       Raw Product Score: 5.000
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.556
+       Raw Product Score: 4.667
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Blood Bank Technician
+       Match Score: 1.528
+       Raw Product Score: 4.583
+
+
+  📁 IT & ITES Domain:
+    2. Engineer-Technical Support
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 Healthcare & Life Sciences Domain:
+    3. Nursing Assistant
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 IT & ITES Domain:
+    3. Technical Writer
+       Match Score: 1.389
+       Raw Product Score: 4.167
+
+
+  📁 Healthcare & Life Sciences Domain:
+    4. Surgeon
+       Match Score: 1.347
+       Raw Product Score: 4.042
+
+    5. Medical Imaging Technician
+       Match Score: 1.185
+       Raw Product Score: 5.333
+
+
+  📁 IT & ITES Domain:
+    4. Trainer
+       Match Score: 1.167
+       Raw Product Score: 5.250
+
+    5. QA Engineer (Software Testing Engineer)
+       Match Score: 1.157
+       Raw Product Score: 5.208
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Sports Physiotherapist
+       Match Score: 1.111
+       Raw Product Score: 5.000
+
+    3. Athletic Coach
+       Match Score: 1.000
+       Raw Product Score: 4.500
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 1.000
+       Raw Product Score: 4.500
+
+    5. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 1.000
+       Raw Product Score: 4.500
+
+🎯 DEBAJYOTI BANERJEE
+------------------------------
+Holland Code: SAI
+Dominant Type: Social
+RIASEC Profile: R:0.83 | I:1.50 | A:1.75 | S:2.00 | E:1.42 | C:1.00
+Average Match Score: 1.245
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Public Administration , Fitness & Lesiure, Clothing and Accessories
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Technical Writer
+       Match Score: 1.750
+       Raw Product Score: 5.250
+
+    2. Business Analyst
+       Match Score: 1.639
+       Raw Product Score: 4.917
+
+
+  📁 Public Administration  Domain:
+    1. Group 2 Officers in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    2. Senior Assistants in Various Departments
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+    3. Deputy Tehsildar
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+    4. Panchayat Secretary
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+    5. Prohibition & Excise Sub Inspector
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.444
+       Raw Product Score: 4.333
+
+
+  📁 Clothing and Accessories Domain:
+    1. Designer & Master Cutter
+       Match Score: 1.333
+       Raw Product Score: 4.000
+
+
+  📁 IT & ITES Domain:
+    3. UI Designer
+       Match Score: 1.259
+       Raw Product Score: 5.667
+
+    4. Engineer-Technical Support
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+    5. Website Copywriter
+       Match Score: 1.185
+       Raw Product Score: 5.333
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Sports Physiotherapist
+       Match Score: 1.093
+       Raw Product Score: 4.917
+
+    3. Athletic Coach
+       Match Score: 1.009
+       Raw Product Score: 4.542
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 1.009
+       Raw Product Score: 4.542
+
+    5. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 1.009
+       Raw Product Score: 4.542
+
+
+  📁 Clothing and Accessories Domain:
+    2. Merchandiser
+       Match Score: 0.954
+       Raw Product Score: 4.292
+
+    3. Designer, Leather Articles
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+    4. Supervisor & Foreman, Leather Goods Making
+       Match Score: 0.852
+       Raw Product Score: 3.833
+
+    5. Textile Engineer
+       Match Score: 0.769
+       Raw Product Score: 3.458
+
+🎯 PRIYANSHU KUMAR TECH
+------------------------------
+Holland Code: IEC
+Dominant Type: Investigative
+RIASEC Profile: R:0.33 | I:1.83 | A:0.33 | S:0.67 | E:1.33 | C:1.17
+Average Match Score: 1.085
+Total Careers Recommended: 20
+
+Top 4 Domains: Healthcare & Life Sciences, Public Administration , IT & ITES, Banking & Finance
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 Healthcare & Life Sciences Domain:
+    1. Pharmacists
+       Match Score: 1.444
+       Raw Product Score: 4.333
+
+
+  📁 Public Administration  Domain:
+    1. Commericial Tax Officer
+       Match Score: 1.444
+       Raw Product Score: 4.333
+
+
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.278
+       Raw Product Score: 3.833
+
+
+  📁 Public Administration  Domain:
+    2. Group 2 Officers in Various Departments
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    3. Senior Assistants in Various Departments
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+
+  📁 IT & ITES Domain:
+    2. Engineer-Technical Support
+       Match Score: 1.167
+       Raw Product Score: 3.500
+
+
+  📁 Banking & Finance Domain:
+    1. IT Officer - Banking
+       Match Score: 1.167
+       Raw Product Score: 3.500
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Blood Bank Technician
+       Match Score: 1.111
+       Raw Product Score: 3.333
+
+
+  📁 Public Administration  Domain:
+    4. Deputy Tehsildar
+       Match Score: 1.056
+       Raw Product Score: 3.167
+
+    5. Prohibition & Excise Sub Inspector
+       Match Score: 1.056
+       Raw Product Score: 3.167
+
+
+  📁 IT & ITES Domain:
+    3. QA Engineer (Software Testing Engineer)
+       Match Score: 1.019
+       Raw Product Score: 4.583
+
+
+  📁 Banking & Finance Domain:
+    2. Budget Analyst
+       Match Score: 1.000
+       Raw Product Score: 4.500
+
+
+  📁 Healthcare & Life Sciences Domain:
+    3. Surgeon
+       Match Score: 0.972
+       Raw Product Score: 2.917
+
+
+  📁 Banking & Finance Domain:
+    3. Actuary
+       Match Score: 0.944
+       Raw Product Score: 4.250
+
+    4. Cost Accountant
+       Match Score: 0.944
+       Raw Product Score: 4.250
+
+    5. Auditor
+       Match Score: 0.944
+       Raw Product Score: 4.250
+
+
+  📁 IT & ITES Domain:
+    4. Programmer Genreal
+       Match Score: 0.944
+       Raw Product Score: 4.250
+
+    5. Digital Marketer
+       Match Score: 0.944
+       Raw Product Score: 4.250
+
+
+  📁 Healthcare & Life Sciences Domain:
+    4. Homoeopathic Physician
+       Match Score: 0.907
+       Raw Product Score: 4.083
+
+    5. Ayurvedic Physician
+       Match Score: 0.907
+       Raw Product Score: 4.083
+
+🎯 HARSH JAIN
+------------------------------
+Holland Code: SER
+Dominant Type: Social
+RIASEC Profile: R:1.33 | I:1.33 | A:1.17 | S:1.42 | E:1.42 | C:1.17
+Average Match Score: 1.082
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Banking & Finance, Engineering & Manufacturing, Fitness & Lesiure
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.389
+       Raw Product Score: 4.167
+
+
+  📁 Banking & Finance Domain:
+    1. IT Officer - Banking
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 Engineering & Manufacturing Domain:
+    1. Sales Engineer
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 IT & ITES Domain:
+    2. Engineer-Technical Support
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 Engineering & Manufacturing Domain:
+    2. Industrial Engineer
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+
+  📁 IT & ITES Domain:
+    3. Technical Writer
+       Match Score: 1.306
+       Raw Product Score: 3.917
+
+    4. UI Designer
+       Match Score: 1.139
+       Raw Product Score: 5.125
+
+
+  📁 Banking & Finance Domain:
+    2. Insurance Officer
+       Match Score: 0.935
+       Raw Product Score: 4.208
+
+
+  📁 IT & ITES Domain:
+    5. Sales Engineer
+       Match Score: 0.935
+       Raw Product Score: 4.208
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Athletic Coach
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+    3. Fitness Trainer/ Fitness Instructor
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+    4. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+
+  📁 Banking & Finance Domain:
+    3. Insurance Agent
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+    4. Bank Manager
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+    5. Insurance Manager
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+
+  📁 Fitness & Lesiure Domain:
+    5. Sports Physiotherapist
+       Match Score: 0.917
+       Raw Product Score: 4.125
+
+
+  📁 Engineering & Manufacturing Domain:
+    3. Mechanical Engineer
+       Match Score: 0.898
+       Raw Product Score: 4.042
+
+    4. Agricultural Engineer
+       Match Score: 0.898
+       Raw Product Score: 4.042
+
+    5. Communication Engineer
+       Match Score: 0.898
+       Raw Product Score: 4.042
+
+🎯 NAVYA DHIMAN
+------------------------------
+Holland Code: ASR
+Dominant Type: Artistic
+RIASEC Profile: R:1.25 | I:1.17 | A:1.33 | S:1.33 | E:1.17 | C:0.33
+Average Match Score: 0.958
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Clothing and Accessories, Fitness & Lesiure, Self Employment
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Technical Writer
+       Match Score: 1.278
+       Raw Product Score: 3.833
+
+
+  📁 Clothing and Accessories Domain:
+    1. Designer & Master Cutter
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 Self Employment Domain:
+    1. Beautician
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 IT & ITES Domain:
+    2. Business Analyst
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    3. Engineer-Technical Support
+       Match Score: 1.194
+       Raw Product Score: 3.583
+
+    4. UI Designer
+       Match Score: 1.111
+       Raw Product Score: 5.000
+
+    5. Website Copywriter
+       Match Score: 0.870
+       Raw Product Score: 3.917
+
+
+  📁 Clothing and Accessories Domain:
+    2. Designer, Leather Articles
+       Match Score: 0.852
+       Raw Product Score: 3.833
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Athletic Coach
+       Match Score: 0.852
+       Raw Product Score: 3.833
+
+    3. Fitness Trainer/ Fitness Instructor
+       Match Score: 0.852
+       Raw Product Score: 3.833
+
+    4. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 0.852
+       Raw Product Score: 3.833
+
+    5. Sports Physiotherapist
+       Match Score: 0.843
+       Raw Product Score: 3.792
+
+
+  📁 Clothing and Accessories Domain:
+    3. Merchandiser
+       Match Score: 0.824
+       Raw Product Score: 3.708
+
+
+  📁 Self Employment Domain:
+    2. Photo and Video Studio
+       Match Score: 0.824
+       Raw Product Score: 3.708
+
+
+  📁 Clothing and Accessories Domain:
+    4. Supervisor & Foreman, Leather Goods Making
+       Match Score: 0.815
+       Raw Product Score: 3.667
+
+    5. Textile Engineer
+       Match Score: 0.806
+       Raw Product Score: 3.625
+
+
+  📁 Self Employment Domain:
+    3. Software consultants
+       Match Score: 0.796
+       Raw Product Score: 3.583
+
+    4. Mobile & Electronic  Service Sales and Repair
+       Match Score: 0.713
+       Raw Product Score: 3.208
+
+    5. Electrician
+       Match Score: 0.713
+       Raw Product Score: 3.208
+
+🎯 BRINDA
+------------------------------
+Holland Code: SRA
+Dominant Type: Social
+RIASEC Profile: R:1.58 | I:1.17 | A:1.50 | S:1.75 | E:1.33 | C:0.92
+Average Match Score: 1.147
+Total Careers Recommended: 20
+
+Top 4 Domains: Fitness & Lesiure, IT & ITES, Self Employment, Clothing and Accessories
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 IT & ITES Domain:
+    1. Technical Writer
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+
+  📁 Clothing and Accessories Domain:
+    1. Designer & Master Cutter
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+
+  📁 Self Employment Domain:
+    1. Beautician
+       Match Score: 1.472
+       Raw Product Score: 4.417
+
+
+  📁 IT & ITES Domain:
+    2. Business Analyst
+       Match Score: 1.417
+       Raw Product Score: 4.250
+
+    3. Engineer-Technical Support
+       Match Score: 1.361
+       Raw Product Score: 4.083
+
+    4. UI Designer
+       Match Score: 1.259
+       Raw Product Score: 5.667
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 1.083
+       Raw Product Score: 4.875
+
+    3. Athletic Coach
+       Match Score: 1.083
+       Raw Product Score: 4.875
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 1.083
+       Raw Product Score: 4.875
+
+    5. Yoga Therapist
+       Match Score: 1.065
+       Raw Product Score: 4.792
+
+
+  📁 IT & ITES Domain:
+    5. IT Helpdesk Executive
+       Match Score: 1.056
+       Raw Product Score: 4.750
+
+
+  📁 Clothing and Accessories Domain:
+    2. Designer, Leather Articles
+       Match Score: 1.000
+       Raw Product Score: 4.500
+
+
+  📁 Self Employment Domain:
+    2. Photo and Video Studio
+       Match Score: 0.991
+       Raw Product Score: 4.458
+
+
+  📁 Clothing and Accessories Domain:
+    3. Supervisor & Foreman, Leather Goods Making
+       Match Score: 0.963
+       Raw Product Score: 4.333
+
+    4. Merchandiser
+       Match Score: 0.954
+       Raw Product Score: 4.292
+
+    5. Textile Engineer
+       Match Score: 0.935
+       Raw Product Score: 4.208
+
+
+  📁 Self Employment Domain:
+    3. Mobile & Electronic  Service Sales and Repair
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+    4. Electrician
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+    5. Offset Printing & Binding
+       Match Score: 0.926
+       Raw Product Score: 4.167
+
+🎯 CHANDRAHAS
+------------------------------
+Holland Code: SEI
+Dominant Type: Social
+RIASEC Profile: R:0.67 | I:1.75 | A:1.25 | S:1.92 | E:1.83 | C:0.92
+Average Match Score: 1.350
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Public Administration , Healthcare & Life Sciences, Fitness & Lesiure
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Business Analyst
+       Match Score: 1.833
+       Raw Product Score: 5.500
+
+    2. Technical Writer
+       Match Score: 1.639
+       Raw Product Score: 4.917
+
+
+  📁 Public Administration  Domain:
+    1. Panchayat Secretary
+       Match Score: 1.556
+       Raw Product Score: 4.667
+
+    2. Postal Assistant
+       Match Score: 1.556
+       Raw Product Score: 4.667
+
+    3. Deputy Tehsildar
+       Match Score: 1.556
+       Raw Product Score: 4.667
+
+    4. Prohibition & Excise Sub Inspector
+       Match Score: 1.556
+       Raw Product Score: 4.667
+
+    5. Group 2 Officers in Various Departments
+       Match Score: 1.528
+       Raw Product Score: 4.583
+
+
+  📁 Healthcare & Life Sciences Domain:
+    1. Pharmacists
+       Match Score: 1.500
+       Raw Product Score: 4.500
+
+
+  📁 Fitness & Lesiure Domain:
+    1. Sports Psychologist
+       Match Score: 1.444
+       Raw Product Score: 4.333
+
+
+  📁 IT & ITES Domain:
+    3. Engineer-Technical Support
+       Match Score: 1.417
+       Raw Product Score: 4.250
+
+    4. Sales Engineer
+       Match Score: 1.231
+       Raw Product Score: 5.542
+
+    5. Trainer
+       Match Score: 1.231
+       Raw Product Score: 5.542
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Psychologist
+       Match Score: 1.231
+       Raw Product Score: 5.542
+
+    3. Ayurvedic Physician
+       Match Score: 1.213
+       Raw Product Score: 5.458
+
+    4. Homoeopathic Physician
+       Match Score: 1.213
+       Raw Product Score: 5.458
+
+    5. Psychiatrist
+       Match Score: 1.213
+       Raw Product Score: 5.458
+
+
+  📁 Fitness & Lesiure Domain:
+    2. Sports Physiotherapist
+       Match Score: 1.102
+       Raw Product Score: 4.958
+
+    3. Athletic Coach
+       Match Score: 0.991
+       Raw Product Score: 4.458
+
+    4. Fitness Trainer/ Fitness Instructor
+       Match Score: 0.991
+       Raw Product Score: 4.458
+
+    5. Physical Training Instructor/ Physical Education Teacher
+       Match Score: 0.991
+       Raw Product Score: 4.458
+
+🎯 SANJANA REDDY PAMURU
+------------------------------
+Holland Code: ASC
+Dominant Type: Artistic
+RIASEC Profile: R:0.92 | I:0.92 | A:1.50 | S:1.33 | E:1.00 | C:1.33
+Average Match Score: 1.034
+Total Careers Recommended: 20
+
+Top 4 Domains: IT & ITES, Public Administration , Healthcare & Life Sciences, Clothing and Accessories
+
+Top 5 Careers from Each of Top 4 Domains:
+  📁 IT & ITES Domain:
+    1. Technical Writer
+       Match Score: 1.250
+       Raw Product Score: 3.750
+
+
+  📁 Public Administration  Domain:
+    1. Prohibition & Excise Sub Inspector
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    2. Postal Assistant
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    3. Panchayat Secretary
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    4. Deputy Tehsildar
+       Match Score: 1.222
+       Raw Product Score: 3.667
+
+    5. Group 2 Officers in Various Departments
+       Match Score: 1.194
+       Raw Product Score: 3.583
+
+
+  📁 Healthcare & Life Sciences Domain:
+    1. Nursing Assistant
+       Match Score: 1.194
+       Raw Product Score: 3.583
+
+
+  📁 Clothing and Accessories Domain:
+    1. Designer & Master Cutter
+       Match Score: 1.139
+       Raw Product Score: 3.417
+
+
+  📁 IT & ITES Domain:
+    2. Business Analyst
+       Match Score: 1.083
+       Raw Product Score: 3.250
+
+
+  📁 Healthcare & Life Sciences Domain:
+    2. Surgeon
+       Match Score: 1.083
+       Raw Product Score: 3.250
+
+    3. Pharmacists
+       Match Score: 1.083
+       Raw Product Score: 3.250
+
+    4. Blood Bank Technician
+       Match Score: 1.056
+       Raw Product Score: 3.167
+
+
+  📁 IT & ITES Domain:
+    3. UI Designer
+       Match Score: 1.019
+       Raw Product Score: 4.583
+
+    4. Engineer-Technical Support
+       Match Score: 0.944
+       Raw Product Score: 2.833
+
+    5. Website Copywriter
+       Match Score: 0.907
+       Raw Product Score: 4.083
+
+
+  📁 Healthcare & Life Sciences Domain:
+    5. Nurse
+       Match Score: 0.843
+       Raw Product Score: 3.792
+
+
+  📁 Clothing and Accessories Domain:
+    2. Designer, Leather Articles
+       Match Score: 0.815
+       Raw Product Score: 3.667
+
+    3. Merchandiser
+       Match Score: 0.769
+       Raw Product Score: 3.458
+
+    4. Textile Machine Operators
+       Match Score: 0.704
+       Raw Product Score: 3.167
+
+    5. Supervisor & Foreman, Leather Goods Making
+       Match Score: 0.704
+       Raw Product Score: 3.167

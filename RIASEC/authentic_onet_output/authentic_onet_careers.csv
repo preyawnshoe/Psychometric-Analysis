@@ -1,0 +1,71 @@
+title,code,interest_code,R,I,A,S,E,C,zone,domain
+Automotive Service Technicians,49-3023,RIC,85,45,25,35,40,55,3,Transportation & Mechanics
+Carpenters,47-2031,RIC,90,35,45,30,35,50,2,Construction & Building
+Electricians,47-2111,RIC,85,55,30,35,45,60,3,Construction & Building
+Plumbers,47-2152,RIC,80,40,25,40,50,55,3,Construction & Building
+Heavy Equipment Operators,47-2073,RC,85,25,20,30,35,65,2,Transportation & Mechanics
+Aircraft Mechanics,49-3011,RIC,80,65,30,35,40,70,3,Transportation & Mechanics
+Welders,51-4121,RC,85,35,40,25,30,55,2,Manufacturing
+Police Officers,33-3051,RSE,70,50,25,75,65,50,3,Law Enforcement & Security
+Firefighters,33-2011,RSE,75,45,30,80,60,45,3,Law Enforcement & Security
+Farmers,11-9013,RCE,80,40,25,35,65,70,3,Agriculture & Natural Resources
+Software Developers,15-1132,IRC,35,90,50,40,45,65,4,Information Technology
+Medical Scientists,19-1042,IR,40,95,35,45,40,70,5,Healthcare & Life Sciences
+Physicians,29-1069,ISA,30,90,35,85,50,45,5,Healthcare & Life Sciences
+Engineers (Civil),17-2051,IRC,45,85,40,40,50,75,4,Engineering
+Psychologists,19-3039,IAS,25,85,60,80,45,50,5,Healthcare & Life Sciences
+Research Scientists,19-1099,IR,35,95,40,35,30,65,5,Science & Research
+Data Scientists,15-2051,IRC,25,90,45,35,50,80,4,Information Technology
+Pharmacists,29-1051,ICS,30,80,25,70,45,85,4,Healthcare & Life Sciences
+Veterinarians,29-1131,IRS,55,85,35,75,50,55,5,Healthcare & Life Sciences
+Architects,17-1011,ARI,40,80,85,45,55,50,4,Architecture & Design
+Graphic Designers,27-1024,ARE,25,45,90,40,65,50,3,Arts & Design
+Musicians,27-2042,AS,30,35,95,60,55,25,3,Arts & Entertainment
+Writers,27-3043,AIS,20,70,90,50,60,40,4,Media & Communications
+Interior Designers,27-1025,AES,30,40,85,65,70,45,3,Architecture & Design
+Photographers,27-4021,ARE,35,40,85,45,70,40,3,Arts & Entertainment
+Fashion Designers,27-1022,AE,25,35,90,40,75,35,4,Arts & Design
+Film Directors,27-2012,AE,30,50,90,55,85,40,4,Arts & Entertainment
+Art Directors,27-1011,AE,25,45,85,50,80,45,4,Arts & Design
+Dancers,27-2031,AS,65,25,90,70,60,20,2,Arts & Entertainment
+Actors,27-2011,AES,35,40,95,75,80,25,3,Arts & Entertainment
+Teachers (Elementary),25-2021,SAC,25,50,60,90,45,65,4,Education
+Social Workers,21-1023,SI,20,65,45,95,40,55,4,Social Services
+Counselors,21-1014,SIA,20,70,55,90,45,50,4,Social Services
+Nurses (Registered),29-1141,SIR,45,65,35,85,50,60,4,Healthcare & Life Sciences
+Physical Therapists,29-1123,SRI,55,70,35,85,45,50,5,Healthcare & Life Sciences
+Speech Therapists,29-1127,SIA,25,75,50,90,45,55,5,Healthcare & Life Sciences
+Librarians,25-4021,SAI,20,70,55,80,40,75,4,Education
+Recreation Workers,39-9032,SE,45,30,60,85,70,40,2,Recreation & Hospitality
+Athletic Trainers,29-9091,SRI,60,65,30,80,50,45,4,Healthcare & Life Sciences
+Ministers/Clergy,21-2011,SA,25,60,70,95,65,45,4,Social Services
+Sales Managers,11-2022,ESA,30,50,45,75,90,60,4,Sales & Marketing
+Marketing Managers,11-2021,EAS,25,60,70,70,90,55,4,Sales & Marketing
+Lawyers,23-1011,EIS,20,80,50,70,90,60,5,Legal
+Real Estate Brokers,41-9021,ECS,30,45,40,75,85,70,3,Sales & Marketing
+Financial Managers,11-3031,ECI,20,70,30,55,85,90,4,Finance
+Chief Executives,11-1011,EC,25,65,40,70,95,75,5,Management
+Insurance Sales Agents,41-3021,ECS,25,50,35,80,85,75,3,Sales & Marketing
+Restaurant Managers,11-9051,ERS,45,40,35,75,85,60,3,Recreation & Hospitality
+Construction Managers,11-9021,ERC,65,55,30,60,85,70,4,Construction & Building
+Advertising Executives,11-2011,AES,25,55,75,65,90,50,4,Sales & Marketing
+Accountants,13-2011,CSE,20,60,25,45,50,95,4,Finance
+Bookkeepers,43-3031,CR,35,40,20,35,30,90,2,Finance
+Bank Tellers,43-3071,CSE,25,35,25,70,50,85,2,Finance
+Administrative Assistants,43-6011,CS,25,40,30,65,45,85,2,Administrative Support
+Database Administrators,15-1141,CRI,30,75,35,40,45,90,4,Information Technology
+Tax Preparers,13-2082,CE,20,50,20,55,60,90,3,Finance
+Actuaries,15-2011,CI,20,85,30,40,50,95,5,Finance
+Court Reporters,23-2091,CR,40,45,35,50,40,85,3,Legal
+Medical Records Technicians,29-2071,CI,25,60,25,45,35,90,3,Healthcare & Life Sciences
+Budget Analysts,13-2031,CIE,20,75,30,45,65,90,4,Finance
+Cybersecurity Specialists,15-1122,IRC,30,90,40,35,55,75,4,Information Technology
+Physical Therapy Assistants,31-2021,SRC,55,45,30,80,40,60,3,Healthcare & Life Sciences
+Web Developers,15-1134,IRC,25,80,75,35,50,55,3,Information Technology
+Dental Hygienists,29-2021,SRI,45,55,30,80,40,60,3,Healthcare & Life Sciences
+Occupational Therapists,29-1122,SIA,40,70,60,85,45,50,5,Healthcare & Life Sciences
+Environmental Scientists,19-2041,IRC,50,90,35,45,40,60,4,Science & Research
+UX/UI Designers,15-1299,AIC,25,70,85,50,60,55,4,Information Technology
+Project Managers,11-9199,ESC,30,65,40,70,85,80,4,Management
+Human Resources Specialists,13-1071,SEC,20,50,40,85,65,75,3,Human Resources
+Market Research Analysts,13-1161,IEC,20,80,45,50,75,80,4,Sales & Marketing

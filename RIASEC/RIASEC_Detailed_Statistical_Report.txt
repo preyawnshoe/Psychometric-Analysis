@@ -1,0 +1,489 @@
+
+================================================================================
+                    RIASEC INTEREST INVENTORY
+                   COMPREHENSIVE STATISTICAL REPORT
+================================================================================
+
+Report Generated: September 19, 2025 at 01:47 PM
+Analysis Period: RIASEC Interest Assessment Data
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+This report presents a comprehensive statistical analysis of RIASEC (Holland's Career 
+Interest) inventory responses from 16 participants. The analysis reveals
+significant patterns in career interests and provides insights for career counseling
+and development programs.
+
+KEY FINDINGS:
+• Highest Interest Area: I (Mean: 2.750)
+• Most Common Dominant Type: I (43.8% of participants)
+• Strongest Correlation: R-S (r = 0.724)
+• Overall Group Mean: 2.442 (on 1-3 scale)
+
+================================================================================
+1. SAMPLE CHARACTERISTICS
+================================================================================
+
+Sample Size: 16 participants
+Total Responses: 96 individual item responses
+Assessment Scale: 1 (No) to 3 (Yes) with 2 (Maybe) as neutral
+
+Data Quality Indicators:
+• Complete responses from all participants
+• No missing data detected
+• Response distribution shows good variability across all categories
+
+================================================================================
+2. DESCRIPTIVE STATISTICS BY RIASEC CATEGORY
+================================================================================
+
+
+------------------------------------------------------------
+R - REALISTIC 
+------------------------------------------------------------
+Definition: Practical, hands-on problem solvers who enjoy working with tools, machines, and physical materials
+
+STATISTICAL MEASURES:
+• Mean: 2.473 ± 0.393 (Standard Deviation)
+• Median: 2.500
+• Mode: 2.714
+• Range: 1.286 (Min: 1.714, Max: 3.000)
+• Interquartile Range (IQR): 0.464
+• Coefficient of Variation: 15.9%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -0.238 (Approximately symmetric)
+• Kurtosis: -0.933 (Normal distribution shape)
+• Normality Test (Shapiro-Wilk): p = 0.350 (Normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 2.000
+• 25th Percentile: 2.250
+• 75th Percentile: 2.714
+• 90th Percentile: 3.000
+
+HIGH SCORERS: 8 participants (≥2.5)
+OUTLIERS: 0 detected
+
+------------------------------------------------------------
+I - INVESTIGATIVE 
+------------------------------------------------------------
+Definition: Analytical thinkers who enjoy research, problem-solving, and working with ideas and theories
+
+STATISTICAL MEASURES:
+• Mean: 2.750 ± 0.396 (Standard Deviation)
+• Median: 2.857
+• Mode: 3.000
+• Range: 1.571 (Min: 1.429, Max: 3.000)
+• Interquartile Range (IQR): 0.286
+• Coefficient of Variation: 14.4%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -2.486 (Left-skewed (negative))
+• Kurtosis: 5.971 (Heavy-tailed (leptokurtic))
+• Normality Test (Shapiro-Wilk): p = 0.000 (Non-normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 2.500
+• 25th Percentile: 2.714
+• 75th Percentile: 3.000
+• 90th Percentile: 3.000
+
+HIGH SCORERS: 14 participants (≥2.5)
+OUTLIERS: 1 detected
+
+------------------------------------------------------------
+A - ARTISTIC 
+------------------------------------------------------------
+Definition: Creative individuals who value self-expression, aesthetics, and working in unstructured environments
+
+STATISTICAL MEASURES:
+• Mean: 2.259 ± 0.479 (Standard Deviation)
+• Median: 2.286
+• Mode: 2.286
+• Range: 1.714 (Min: 1.286, Max: 3.000)
+• Interquartile Range (IQR): 0.321
+• Coefficient of Variation: 21.2%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -0.337 (Approximately symmetric)
+• Kurtosis: -0.106 (Normal distribution shape)
+• Normality Test (Shapiro-Wilk): p = 0.255 (Normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 1.643
+• 25th Percentile: 2.107
+• 75th Percentile: 2.429
+• 90th Percentile: 2.929
+
+HIGH SCORERS: 3 participants (≥2.5)
+OUTLIERS: 4 detected
+
+------------------------------------------------------------
+S - SOCIAL 
+------------------------------------------------------------
+Definition: People-oriented individuals who enjoy helping, teaching, and working with others in supportive roles
+
+STATISTICAL MEASURES:
+• Mean: 2.509 ± 0.417 (Standard Deviation)
+• Median: 2.571
+• Mode: 2.571
+• Range: 1.286 (Min: 1.714, Max: 3.000)
+• Interquartile Range (IQR): 0.500
+• Coefficient of Variation: 16.6%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -0.663 (Left-skewed (negative))
+• Kurtosis: -0.764 (Normal distribution shape)
+• Normality Test (Shapiro-Wilk): p = 0.050 (Non-normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 1.857
+• 25th Percentile: 2.357
+• 75th Percentile: 2.857
+• 90th Percentile: 2.929
+
+HIGH SCORERS: 10 participants (≥2.5)
+OUTLIERS: 0 detected
+
+------------------------------------------------------------
+E - ENTERPRISING 
+------------------------------------------------------------
+Definition: Ambitious leaders who enjoy persuading, managing, and taking on business challenges
+
+STATISTICAL MEASURES:
+• Mean: 2.241 ± 0.457 (Standard Deviation)
+• Median: 2.143
+• Mode: 2.143
+• Range: 1.714 (Min: 1.286, Max: 3.000)
+• Interquartile Range (IQR): 0.643
+• Coefficient of Variation: 20.4%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -0.161 (Approximately symmetric)
+• Kurtosis: -0.477 (Normal distribution shape)
+• Normality Test (Shapiro-Wilk): p = 0.875 (Normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 1.786
+• 25th Percentile: 1.964
+• 75th Percentile: 2.607
+• 90th Percentile: 2.786
+
+HIGH SCORERS: 5 participants (≥2.5)
+OUTLIERS: 0 detected
+
+------------------------------------------------------------
+C - CONVENTIONAL 
+------------------------------------------------------------
+Definition: Detail-oriented individuals who prefer structured environments and systematic approaches to work
+
+STATISTICAL MEASURES:
+• Mean: 2.420 ± 0.468 (Standard Deviation)
+• Median: 2.429
+• Mode: 3.000
+• Range: 1.571 (Min: 1.429, Max: 3.000)
+• Interquartile Range (IQR): 0.679
+• Coefficient of Variation: 19.3%
+
+DISTRIBUTION CHARACTERISTICS:
+• Skewness: -0.331 (Approximately symmetric)
+• Kurtosis: -0.624 (Normal distribution shape)
+• Normality Test (Shapiro-Wilk): p = 0.274 (Normal distribution)
+
+PERCENTILE RANKS:
+• 10th Percentile: 1.929
+• 25th Percentile: 2.107
+• 75th Percentile: 2.786
+• 90th Percentile: 3.000
+
+HIGH SCORERS: 6 participants (≥2.5)
+OUTLIERS: 0 detected
+
+
+================================================================================
+3. GROUP ANALYSIS AND COMPARISONS
+================================================================================
+
+RIASEC CATEGORY RANKINGS (by Mean Score):
+1. Investigative (I): 2.750
+2. Social (S): 2.509
+3. Realistic (R): 2.473
+4. Conventional (C): 2.420
+5. Artistic (A): 2.259
+6. Enterprising (E): 2.241
+
+
+DOMINANT TYPE DISTRIBUTION:
+• Investigative (I): 7 participants (43.8%)
+• Realistic (R): 5 participants (31.2%)
+• Conventional (C): 2 participants (12.5%)
+• Enterprising (E): 1 participants (6.2%)
+• Social (S): 1 participants (6.2%)
+
+
+OVERALL GROUP STATISTICS:
+• Group Mean Score: 2.442
+• Group Standard Deviation: 0.456
+• Group Median: 2.429
+
+================================================================================
+4. CORRELATION ANALYSIS
+================================================================================
+
+The correlation analysis reveals the relationships between different RIASEC categories.
+Strong correlations may indicate complementary interest areas or underlying factors.
+
+CORRELATION MATRIX:
+       R      I      A      S      E      C
+R  1.000  0.147  0.636  0.724  0.550  0.195
+I  0.147  1.000  0.113  0.064  0.303  0.061
+A  0.636  0.113  1.000  0.618  0.579  0.114
+S  0.724  0.064  0.618  1.000  0.498  0.359
+E  0.550  0.303  0.579  0.498  1.000  0.176
+C  0.195  0.061  0.114  0.359  0.176  1.000
+
+STRONGEST CORRELATIONS (Top 5):
+1. R-S: r = 0.724 (Very Strong Positive)
+2. R-A: r = 0.636 (Strong Positive)
+3. A-S: r = 0.618 (Strong Positive)
+4. A-E: r = 0.579 (Strong Positive)
+5. R-E: r = 0.550 (Strong Positive)
+
+
+CORRELATION INTERPRETATION:
+• Positive correlations suggest interests that tend to occur together
+• Negative correlations suggest competing or mutually exclusive interests
+• Correlations ≥ 0.5 indicate strong relationships between interest areas
+
+================================================================================
+5. INDIVIDUAL PARTICIPANT PROFILES
+================================================================================
+
+PROFILE CLASSIFICATION SUMMARY:
+• Highly Differentiated Profile: 7 participants (43.8%)
+• Flat Profile (Low Differentiation): 2 participants (12.5%)
+• Moderately Differentiated Profile: 7 participants (43.8%)
+
+
+DETAILED PARTICIPANT ANALYSIS:
+
+Vandana:
+  • Holland Code: EIA
+  • Dominant Type: E (2.714)
+  • Secondary Type: I (2.571)
+  • Weakest Area: C (1.429)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.214
+  • Score Range: 1.286
+
+Sanjana Reddy Pamuru:
+  • Holland Code: CSR
+  • Dominant Type: C (2.714)
+  • Secondary Type: S (2.429)
+  • Weakest Area: I (1.429)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.095
+  • Score Range: 1.286
+
+Priyanshu Kumar:
+  • Holland Code: RIA
+  • Dominant Type: R (3.000)
+  • Secondary Type: I (3.000)
+  • Weakest Area: R (3.000)
+  • Profile Type: Flat Profile (Low Differentiation)
+  • Mean Score: 3.000
+  • Score Range: 0.000
+
+Sanskar Singhal:
+  • Holland Code: IRS
+  • Dominant Type: I (3.000)
+  • Secondary Type: R (2.714)
+  • Weakest Area: C (1.857)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.381
+  • Score Range: 1.143
+
+Ambarish Chatterjee:
+  • Holland Code: ICR
+  • Dominant Type: I (3.000)
+  • Secondary Type: C (3.000)
+  • Weakest Area: A (1.286)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.286
+  • Score Range: 1.714
+
+Navya Dhiman:
+  • Holland Code: ISE
+  • Dominant Type: I (2.857)
+  • Secondary Type: S (2.571)
+  • Weakest Area: R (2.000)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.429
+  • Score Range: 0.857
+
+Hardhik:
+  • Holland Code: IRE
+  • Dominant Type: I (3.000)
+  • Secondary Type: R (2.714)
+  • Weakest Area: A (2.429)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.643
+  • Score Range: 0.571
+
+Ahana Sadh:
+  • Holland Code: IAC
+  • Dominant Type: I (2.714)
+  • Secondary Type: A (2.286)
+  • Weakest Area: E (1.286)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.024
+  • Score Range: 1.429
+
+Navya Ennam:
+  • Holland Code: RIC
+  • Dominant Type: R (3.000)
+  • Secondary Type: I (3.000)
+  • Weakest Area: A (2.857)
+  • Profile Type: Flat Profile (Low Differentiation)
+  • Mean Score: 2.929
+  • Score Range: 0.143
+
+Brinda:
+  • Holland Code: RIS
+  • Dominant Type: R (2.714)
+  • Secondary Type: I (2.714)
+  • Weakest Area: E (1.857)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.405
+  • Score Range: 0.857
+
+Aakash Guduru:
+  • Holland Code: SRI
+  • Dominant Type: S (2.857)
+  • Secondary Type: R (2.571)
+  • Weakest Area: C (2.000)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.381
+  • Score Range: 0.857
+
+Debajyoti Banerjee:
+  • Holland Code: RIS
+  • Dominant Type: R (2.714)
+  • Secondary Type: I (2.714)
+  • Weakest Area: E (2.000)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.405
+  • Score Range: 0.714
+
+Sabyasachi:
+  • Holland Code: ICR
+  • Dominant Type: I (3.000)
+  • Secondary Type: C (2.429)
+  • Weakest Area: A (1.429)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.048
+  • Score Range: 1.571
+
+Rudresh Joshi:
+  • Holland Code: ISR
+  • Dominant Type: I (3.000)
+  • Secondary Type: S (2.857)
+  • Weakest Area: A (2.000)
+  • Profile Type: Highly Differentiated Profile
+  • Mean Score: 2.405
+  • Score Range: 1.000
+
+Durga :
+  • Holland Code: RAS
+  • Dominant Type: R (3.000)
+  • Secondary Type: A (3.000)
+  • Weakest Area: E (2.286)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.786
+  • Score Range: 0.714
+
+Oishika Sarkar:
+  • Holland Code: CIS
+  • Dominant Type: C (3.000)
+  • Secondary Type: I (2.857)
+  • Weakest Area: R (2.286)
+  • Profile Type: Moderately Differentiated Profile
+  • Mean Score: 2.643
+  • Score Range: 0.714
+
+
+================================================================================
+6. CAREER IMPLICATIONS AND RECOMMENDATIONS
+================================================================================
+
+Based on the RIASEC analysis results, the following career development 
+recommendations are suggested:
+
+GROUP-LEVEL RECOMMENDATIONS:
+
+1. INVESTIGATIVE FOCUS: With Investigative showing the highest mean score,
+   consider programs emphasizing research, analysis, and scientific thinking.
+
+2. DIVERSE INTERESTS: The range of dominant types suggests a diverse group with
+   varied career interests - individualized counseling recommended.
+
+3. CORRELATION PATTERNS: Strong correlations between certain types suggest
+   exploring hybrid career paths that combine multiple interest areas.
+
+INDIVIDUAL RECOMMENDATIONS:
+
+For each participant, career exploration should focus on their Holland Code 
+and dominant interest patterns. Those with highly differentiated profiles 
+may benefit from specialized career paths, while those with flat profiles 
+might explore careers requiring diverse skills.
+
+================================================================================
+7. STATISTICAL ASSUMPTIONS AND LIMITATIONS
+================================================================================
+
+ASSUMPTIONS:
+• Participants responded honestly and accurately
+• The RIASEC model appropriately captures career interests
+• Sample is representative of the intended population
+
+LIMITATIONS:
+• Sample size of 16 may limit generalizability
+• Cross-sectional data provides snapshot rather than developmental trends
+• Cultural and contextual factors may influence responses
+
+RELIABILITY CONSIDERATIONS:
+• Internal consistency appears adequate based on correlation patterns
+• No systematic response biases detected in the data
+• Score distributions show appropriate variability
+
+================================================================================
+8. TECHNICAL APPENDIX
+================================================================================
+
+STATISTICAL METHODS:
+• Descriptive statistics calculated using pandas and numpy
+• Normality testing performed using Shapiro-Wilk test
+• Outlier detection using Interquartile Range (IQR) method
+• Correlation analysis using Pearson product-moment correlation
+
+RIASEC CATEGORY MAPPING:
+The 42 assessment items were mapped to RIASEC categories based on 
+Holland's theoretical framework and standard RIASEC inventories.
+
+DATA PROCESSING:
+• Responses coded as: Yes=3, Maybe=2, No=1
+• Category scores calculated as mean of relevant items
+• Missing data: None detected
+
+================================================================================
+END OF REPORT
+================================================================================
+
+For questions about this analysis or to request additional statistical 
+procedures, please contact the research team.
+
+Report prepared using Python statistical analysis framework.
+Analysis date: September 19, 2025
